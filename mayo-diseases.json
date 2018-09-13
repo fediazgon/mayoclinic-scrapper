@@ -1,2012 +1,2069 @@
 [
    {
       "disease_id": 0,
-      "disease_name": "Sweet's syndrome",
+      "disease_name": "Abdominal aortic aneurysm",
       "causes": [
          {
             "cause_id": 0,
-            "cause_name": "Sex"
+            "cause_name": "Tobacco use"
          },
          {
             "cause_id": 1,
-            "cause_name": "Age"
+            "cause_name": "Hardening of the arteries (atherosclerosis)"
          },
          {
             "cause_id": 2,
-            "cause_name": "Cancer"
+            "cause_name": "High blood pressure"
          },
          {
             "cause_id": 3,
-            "cause_name": "Other health problems"
+            "cause_name": "Blood vessel diseases in the aorta"
          },
          {
             "cause_id": 4,
-            "cause_name": "Pregnancy"
+            "cause_name": "Infection in the aorta"
          },
          {
             "cause_id": 5,
-            "cause_name": "Drug sensitivity"
+            "cause_name": "Trauma"
+         },
+         {
+            "cause_id": 6,
+            "cause_name": "Heredity"
          }
       ],
       "risk_factors": [
          {
             "risk_id": 0,
-            "risk_name": "Sex"
-         },
-         {
-            "risk_id": 1,
             "risk_name": "Age"
          },
          {
+            "risk_id": 1,
+            "risk_name": "Tobacco use"
+         },
+         {
             "risk_id": 2,
-            "risk_name": "Cancer"
+            "risk_name": "Being male"
          },
          {
             "risk_id": 3,
-            "risk_name": "Other health problems"
+            "risk_name": "Being white"
          },
          {
             "risk_id": 4,
-            "risk_name": "Pregnancy"
+            "risk_name": "Family history"
          },
          {
             "risk_id": 5,
-            "risk_name": "Drug sensitivity"
+            "risk_name": "Atherosclerosis"
+         },
+         {
+            "risk_id": 6,
+            "risk_name": "Other aneurysms"
+         },
+         {
+            "risk_id": 7,
+            "risk_name": "High blood pressure"
          }
       ]
    },
    {
       "disease_id": 1,
-      "disease_name": "Infant reflux",
+      "disease_name": "ACL injury",
       "causes": [],
       "risk_factors": []
    },
    {
       "disease_id": 2,
-      "disease_name": "Gastroesophageal reflux disease (GERD)",
+      "disease_name": "Infant reflux",
       "causes": [],
       "risk_factors": []
    },
    {
       "disease_id": 3,
-      "disease_name": "Achilles tendon rupture",
+      "disease_name": "Gastroesophageal reflux disease (GERD)",
       "causes": [],
-      "risk_factors": [
+      "risk_factors": []
+   },
+   {
+      "disease_id": 4,
+      "disease_name": "Sweet's syndrome",
+      "causes": [
          {
-            "risk_id": 1,
-            "risk_name": "Age"
+            "cause_id": 7,
+            "cause_name": "Sex"
          },
          {
-            "risk_id": 0,
+            "cause_id": 8,
+            "cause_name": "Age"
+         },
+         {
+            "cause_id": 9,
+            "cause_name": "Cancer"
+         },
+         {
+            "cause_id": 10,
+            "cause_name": "Other health problems"
+         },
+         {
+            "cause_id": 11,
+            "cause_name": "Pregnancy"
+         },
+         {
+            "cause_id": 12,
+            "cause_name": "Drug sensitivity"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 8,
             "risk_name": "Sex"
          },
          {
-            "risk_id": 6,
-            "risk_name": "Recreational sports"
-         },
-         {
-            "risk_id": 7,
-            "risk_name": "Steroid injections"
-         },
-         {
-            "risk_id": 8,
-            "risk_name": "Certain antibiotics"
+            "risk_id": 0,
+            "risk_name": "Age"
          },
          {
             "risk_id": 9,
-            "risk_name": "Obesity"
+            "risk_name": "Cancer"
+         },
+         {
+            "risk_id": 10,
+            "risk_name": "Other health problems"
+         },
+         {
+            "risk_id": 11,
+            "risk_name": "Pregnancy"
+         },
+         {
+            "risk_id": 12,
+            "risk_name": "Drug sensitivity"
          }
       ]
    },
    {
-      "disease_id": 4,
+      "disease_id": 5,
       "disease_name": "Actinic keratosis",
       "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 5,
+      "disease_id": 6,
       "disease_name": "Acute coronary syndrome",
       "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 6,
-      "disease_name": "Acoustic neuroma",
-      "causes": [],
-      "risk_factors": []
+      "disease_id": 7,
+      "disease_name": "HIV/AIDS",
+      "causes": [
+         {
+            "cause_id": 13,
+            "cause_name": "By having sex"
+         },
+         {
+            "cause_id": 14,
+            "cause_name": "From blood transfusions"
+         },
+         {
+            "cause_id": 15,
+            "cause_name": "By sharing needles"
+         },
+         {
+            "cause_id": 16,
+            "cause_name": "During pregnancy or delivery or through breast-feeding"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 13,
+            "risk_name": "Have unprotected sex"
+         },
+         {
+            "risk_id": 14,
+            "risk_name": "Have an STI"
+         },
+         {
+            "risk_id": 15,
+            "risk_name": "Use intravenous drugs"
+         },
+         {
+            "risk_id": 16,
+            "risk_name": "Are an uncircumcised man"
+         }
+      ]
    },
    {
-      "disease_id": 7,
+      "disease_id": 8,
       "disease_name": "Acromegaly",
       "causes": [
          {
-            "cause_id": 6,
+            "cause_id": 17,
             "cause_name": "Pituitary tumors"
          },
          {
-            "cause_id": 7,
+            "cause_id": 18,
             "cause_name": "Nonpituitary tumors"
          }
       ],
       "risk_factors": []
    },
    {
-      "disease_id": 8,
-      "disease_name": "HIV/AIDS",
-      "causes": [
-         {
-            "cause_id": 8,
-            "cause_name": "By having sex"
-         },
-         {
-            "cause_id": 9,
-            "cause_name": "From blood transfusions"
-         },
-         {
-            "cause_id": 10,
-            "cause_name": "By sharing needles"
-         },
-         {
-            "cause_id": 11,
-            "cause_name": "During pregnancy or delivery or through breast-feeding"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 10,
-            "risk_name": "Have unprotected sex"
-         },
-         {
-            "risk_id": 11,
-            "risk_name": "Have an STI"
-         },
-         {
-            "risk_id": 12,
-            "risk_name": "Use intravenous drugs"
-         },
-         {
-            "risk_id": 13,
-            "risk_name": "Are an uncircumcised man"
-         }
-      ]
-   },
-   {
       "disease_id": 9,
-      "disease_name": "ACL injury",
+      "disease_name": "Acoustic neuroma",
       "causes": [],
       "risk_factors": []
    },
    {
       "disease_id": 10,
-      "disease_name": "Achilles tendinitis",
-      "causes": [
-         {
-            "cause_id": 12,
-            "cause_name": "Your sex"
-         },
-         {
-            "cause_id": 1,
-            "cause_name": "Age"
-         },
-         {
-            "cause_id": 13,
-            "cause_name": "Physical problems"
-         },
-         {
-            "cause_id": 14,
-            "cause_name": "Training choices"
-         },
-         {
-            "cause_id": 15,
-            "cause_name": "Medical conditions"
-         },
-         {
-            "cause_id": 16,
-            "cause_name": "Medications"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 14,
-            "risk_name": "Your sex"
-         },
-         {
-            "risk_id": 1,
-            "risk_name": "Age"
-         },
-         {
-            "risk_id": 15,
-            "risk_name": "Physical problems"
-         },
-         {
-            "risk_id": 16,
-            "risk_name": "Training choices"
-         },
-         {
-            "risk_id": 17,
-            "risk_name": "Medical conditions"
-         },
-         {
-            "risk_id": 18,
-            "risk_name": "Medications"
-         }
-      ]
-   },
-   {
-      "disease_id": 11,
-      "disease_name": "Achalasia",
-      "causes": [],
-      "risk_factors": []
-   },
-   {
-      "disease_id": 12,
-      "disease_name": "Acanthosis nigricans",
-      "causes": [
-         {
-            "cause_id": 17,
-            "cause_name": "Insulin resistance"
-         },
-         {
-            "cause_id": 18,
-            "cause_name": "Hormonal disorders"
-         },
-         {
-            "cause_id": 19,
-            "cause_name": "Certain drugs and supplements"
-         },
-         {
-            "cause_id": 2,
-            "cause_name": "Cancer"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 9,
-            "risk_name": "Obesity"
-         },
-         {
-            "risk_id": 19,
-            "risk_name": "Race"
-         },
-         {
-            "risk_id": 20,
-            "risk_name": "Family history"
-         }
-      ]
-   },
-   {
-      "disease_id": 13,
-      "disease_name": "Absence seizure",
-      "causes": [
-         {
-            "cause_id": 1,
-            "cause_name": "Age"
-         },
-         {
-            "cause_id": 0,
-            "cause_name": "Sex"
-         },
-         {
-            "cause_id": 20,
-            "cause_name": "Family members who have seizures"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 1,
-            "risk_name": "Age"
-         },
-         {
-            "risk_id": 0,
-            "risk_name": "Sex"
-         },
-         {
-            "risk_id": 21,
-            "risk_name": "Family members who have seizures"
-         }
-      ]
-   },
-   {
-      "disease_id": 14,
-      "disease_name": "Bartholin's cyst",
-      "causes": [],
-      "risk_factors": []
-   },
-   {
-      "disease_id": 15,
       "disease_name": "Acne",
       "causes": [],
       "risk_factors": [
          {
-            "risk_id": 1,
+            "risk_id": 0,
             "risk_name": "Age"
          },
          {
-            "risk_id": 22,
+            "risk_id": 17,
             "risk_name": "Hormonal changes"
          },
          {
-            "risk_id": 20,
+            "risk_id": 4,
             "risk_name": "Family history"
          },
          {
-            "risk_id": 23,
+            "risk_id": 18,
             "risk_name": "Greasy or oily substances"
          },
          {
-            "risk_id": 24,
+            "risk_id": 19,
             "risk_name": "Friction or pressure on your skin"
          },
          {
-            "risk_id": 25,
+            "risk_id": 20,
             "risk_name": "Stress"
          }
       ]
    },
    {
-      "disease_id": 16,
-      "disease_name": "Anorgasmia in women",
+      "disease_id": 11,
+      "disease_name": "Achilles tendon rupture",
+      "causes": [],
+      "risk_factors": [
+         {
+            "risk_id": 0,
+            "risk_name": "Age"
+         },
+         {
+            "risk_id": 8,
+            "risk_name": "Sex"
+         },
+         {
+            "risk_id": 21,
+            "risk_name": "Recreational sports"
+         },
+         {
+            "risk_id": 22,
+            "risk_name": "Steroid injections"
+         },
+         {
+            "risk_id": 23,
+            "risk_name": "Certain antibiotics"
+         },
+         {
+            "risk_id": 24,
+            "risk_name": "Obesity"
+         }
+      ]
+   },
+   {
+      "disease_id": 12,
+      "disease_name": "Achilles tendinitis",
       "causes": [
          {
+            "cause_id": 19,
+            "cause_name": "Your sex"
+         },
+         {
+            "cause_id": 8,
+            "cause_name": "Age"
+         },
+         {
+            "cause_id": 20,
+            "cause_name": "Physical problems"
+         },
+         {
             "cause_id": 21,
-            "cause_name": "Diseases"
+            "cause_name": "Training choices"
          },
          {
             "cause_id": 22,
-            "cause_name": "Gynecological issues"
-         },
-         {
-            "cause_id": 16,
-            "cause_name": "Medications"
+            "cause_name": "Medical conditions"
          },
          {
             "cause_id": 23,
-            "cause_name": "Alcohol and smoking"
+            "cause_name": "Medications"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 25,
+            "risk_name": "Your sex"
          },
          {
+            "risk_id": 0,
+            "risk_name": "Age"
+         },
+         {
+            "risk_id": 26,
+            "risk_name": "Physical problems"
+         },
+         {
+            "risk_id": 27,
+            "risk_name": "Training choices"
+         },
+         {
+            "risk_id": 28,
+            "risk_name": "Medical conditions"
+         },
+         {
+            "risk_id": 29,
+            "risk_name": "Medications"
+         }
+      ]
+   },
+   {
+      "disease_id": 13,
+      "disease_name": "Achalasia",
+      "causes": [],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 14,
+      "disease_name": "Acanthosis nigricans",
+      "causes": [
+         {
             "cause_id": 24,
-            "cause_name": "Aging"
+            "cause_name": "Insulin resistance"
+         },
+         {
+            "cause_id": 25,
+            "cause_name": "Hormonal disorders"
+         },
+         {
+            "cause_id": 26,
+            "cause_name": "Certain drugs and supplements"
+         },
+         {
+            "cause_id": 9,
+            "cause_name": "Cancer"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 24,
+            "risk_name": "Obesity"
+         },
+         {
+            "risk_id": 30,
+            "risk_name": "Race"
+         },
+         {
+            "risk_id": 4,
+            "risk_name": "Family history"
+         }
+      ]
+   },
+   {
+      "disease_id": 15,
+      "disease_name": "Absence seizure",
+      "causes": [
+         {
+            "cause_id": 8,
+            "cause_name": "Age"
+         },
+         {
+            "cause_id": 7,
+            "cause_name": "Sex"
+         },
+         {
+            "cause_id": 27,
+            "cause_name": "Family members who have seizures"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 0,
+            "risk_name": "Age"
+         },
+         {
+            "risk_id": 8,
+            "risk_name": "Sex"
+         },
+         {
+            "risk_id": 31,
+            "risk_name": "Family members who have seizures"
+         }
+      ]
+   },
+   {
+      "disease_id": 16,
+      "disease_name": "Adult attention-deficit/hyperactivity disorder (ADHD)",
+      "causes": [
+         {
+            "cause_id": 28,
+            "cause_name": "Genetics"
+         },
+         {
+            "cause_id": 29,
+            "cause_name": "Environment"
+         },
+         {
+            "cause_id": 30,
+            "cause_name": "Problems during development"
          }
       ],
       "risk_factors": []
    },
    {
       "disease_id": 17,
-      "disease_name": "Bird flu (avian influenza)",
-      "causes": [],
+      "disease_name": "Hair loss",
+      "causes": [
+         {
+            "cause_id": 31,
+            "cause_name": "Family history (heredity)"
+         },
+         {
+            "cause_id": 32,
+            "cause_name": "Hormonal changes and medical conditions"
+         },
+         {
+            "cause_id": 33,
+            "cause_name": "Medications and supplements"
+         },
+         {
+            "cause_id": 34,
+            "cause_name": "Radiation therapy to the head"
+         },
+         {
+            "cause_id": 35,
+            "cause_name": "A very stressful event"
+         },
+         {
+            "cause_id": 36,
+            "cause_name": "Certain hairstyles and treatments"
+         }
+      ],
       "risk_factors": []
    },
    {
       "disease_id": 18,
-      "disease_name": "Avascular necrosis",
-      "causes": [
-         {
-            "cause_id": 25,
-            "cause_name": "Joint or bone trauma"
-         },
-         {
-            "cause_id": 26,
-            "cause_name": "Fatty deposits in blood vessels"
-         },
-         {
-            "cause_id": 27,
-            "cause_name": "Certain diseases"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 26,
-            "risk_name": "Trauma"
-         },
-         {
-            "risk_id": 27,
-            "risk_name": "Steroid use"
-         },
-         {
-            "risk_id": 28,
-            "risk_name": "Excessive alcohol use"
-         },
-         {
-            "risk_id": 29,
-            "risk_name": "Bisphosphonate us"
-         },
-         {
-            "risk_id": 30,
-            "risk_name": "Certain medical treatments"
-         }
-      ]
-   },
-   {
-      "disease_id": 19,
-      "disease_name": "Autonomic neuropathy",
-      "causes": [
-         {
-            "cause_id": 28,
-            "cause_name": "Abnormal protein buildu"
-         },
-         {
-            "cause_id": 29,
-            "cause_name": "Diabetes"
-         },
-         {
-            "cause_id": 30,
-            "cause_name": "Injury to nerve"
-         },
-         {
-            "cause_id": 31,
-            "cause_name": "Treatment with certain medications"
-         },
-         {
-            "cause_id": 32,
-            "cause_name": "Other chronic illnesses"
-         },
-         {
-            "cause_id": 33,
-            "cause_name": "Certain infectious diseases"
-         },
-         {
-            "cause_id": 34,
-            "cause_name": "Inherited disorders"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 31,
-            "risk_name": "Other diseases"
-         }
-      ]
-   },
-   {
-      "disease_id": 20,
-      "disease_name": "Autoimmune pancreatitis",
+      "disease_name": "Vasculitis",
       "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 21,
-      "disease_name": "Autoimmune hepatitis",
+      "disease_id": 19,
+      "disease_name": "Broken arm",
       "causes": [
          {
-            "cause_id": 35,
-            "cause_name": "Type 1 autoimmune hepatitis"
+            "cause_id": 37,
+            "cause_name": "Falls"
          },
          {
-            "cause_id": 36,
-            "cause_name": "Type 2 autoimmune hepatitis"
+            "cause_id": 38,
+            "cause_name": "Sports injuries"
+         },
+         {
+            "cause_id": 39,
+            "cause_name": "Significant trauma"
+         },
+         {
+            "cause_id": 40,
+            "cause_name": "Child abuse"
          }
       ],
       "risk_factors": [
          {
             "risk_id": 32,
-            "risk_name": "Being female"
+            "risk_name": "Uneven growth"
          },
          {
             "risk_id": 33,
-            "risk_name": "A history of certain infections"
+            "risk_name": "Osteoarthritis"
          },
          {
             "risk_id": 34,
-            "risk_name": "Heredity"
+            "risk_name": "Stiffness"
          },
          {
             "risk_id": 35,
-            "risk_name": "Having an autoimmune disease"
+            "risk_name": "Bone infection"
+         },
+         {
+            "risk_id": 36,
+            "risk_name": "Nerve or blood vessel injury"
+         },
+         {
+            "risk_id": 37,
+            "risk_name": "Compartment syndrome"
+         }
+      ]
+   },
+   {
+      "disease_id": 20,
+      "disease_name": "Atrial septal defect (ASD)",
+      "causes": [
+         {
+            "cause_id": 41,
+            "cause_name": "Secundum"
+         },
+         {
+            "cause_id": 42,
+            "cause_name": "Primum"
+         },
+         {
+            "cause_id": 43,
+            "cause_name": "Sinus venosus"
+         },
+         {
+            "cause_id": 44,
+            "cause_name": "Coronary sinus"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 38,
+            "risk_name": "Rubella infection"
+         },
+         {
+            "risk_id": 39,
+            "risk_name": "Drug, tobacco or alcohol use, or exposure to certain substances"
+         },
+         {
+            "risk_id": 40,
+            "risk_name": "Diabetes or lupus"
+         },
+         {
+            "risk_id": 24,
+            "risk_name": "Obesity"
+         },
+         {
+            "risk_id": 41,
+            "risk_name": "Phenylketonuria (PKU)"
+         }
+      ]
+   },
+   {
+      "disease_id": 21,
+      "disease_name": "Ascariasis",
+      "causes": [
+         {
+            "cause_id": 45,
+            "cause_name": "Ingestion"
+         },
+         {
+            "cause_id": 46,
+            "cause_name": "Migration"
+         },
+         {
+            "cause_id": 47,
+            "cause_name": "Maturation"
+         },
+         {
+            "cause_id": 48,
+            "cause_name": "Reproduction"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 0,
+            "risk_name": "Age"
+         },
+         {
+            "risk_id": 42,
+            "risk_name": "Warm climate"
+         },
+         {
+            "risk_id": 43,
+            "risk_name": "Poor sanitation"
          }
       ]
    },
    {
       "disease_id": 22,
-      "disease_name": "Autism spectrum disorder",
+      "disease_name": "Asbestosis",
+      "causes": [],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 23,
+      "disease_name": "Rheumatoid arthritis",
       "causes": [
          {
-            "cause_id": 37,
-            "cause_name": "Genetics"
+            "cause_id": 19,
+            "cause_name": "Your sex"
          },
          {
-            "cause_id": 38,
-            "cause_name": "Environmental factors"
+            "cause_id": 8,
+            "cause_name": "Age"
+         },
+         {
+            "cause_id": 49,
+            "cause_name": "Family history"
+         },
+         {
+            "cause_id": 50,
+            "cause_name": "Smoking"
+         },
+         {
+            "cause_id": 51,
+            "cause_name": "Environmental exposures"
+         },
+         {
+            "cause_id": 52,
+            "cause_name": "Obesity"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 36,
-            "risk_name": "Your child's sex"
+            "risk_id": 25,
+            "risk_name": "Your sex"
          },
          {
-            "risk_id": 20,
+            "risk_id": 0,
+            "risk_name": "Age"
+         },
+         {
+            "risk_id": 4,
             "risk_name": "Family history"
          },
          {
-            "risk_id": 37,
-            "risk_name": "Other disorders"
+            "risk_id": 44,
+            "risk_name": "Smoking"
          },
          {
-            "risk_id": 38,
-            "risk_name": "Extremely preterm babies"
+            "risk_id": 45,
+            "risk_name": "Environmental exposures"
          },
          {
-            "risk_id": 39,
-            "risk_name": "Parents' ages"
+            "risk_id": 24,
+            "risk_name": "Obesity"
          }
       ]
    },
    {
-      "disease_id": 23,
-      "disease_name": "Atypical depression",
-      "causes": [
+      "disease_id": 24,
+      "disease_name": "Reactive arthritis",
+      "causes": [],
+      "risk_factors": [
          {
-            "cause_id": 39,
-            "cause_name": "Brain differences"
+            "risk_id": 0,
+            "risk_name": "Age"
          },
          {
-            "cause_id": 40,
-            "cause_name": "Inherited traits"
+            "risk_id": 8,
+            "risk_name": "Sex"
+         },
+         {
+            "risk_id": 46,
+            "risk_name": "Hereditary factors"
          }
-      ],
-      "risk_factors": []
+      ]
    },
    {
-      "disease_id": 24,
+      "disease_id": 25,
+      "disease_name": "Psoriatic arthritis",
+      "causes": [
+         {
+            "cause_id": 53,
+            "cause_name": "Psoriasis"
+         },
+         {
+            "cause_id": 54,
+            "cause_name": "Your family history"
+         },
+         {
+            "cause_id": 55,
+            "cause_name": "Your age"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 47,
+            "risk_name": "Psoriasis"
+         },
+         {
+            "risk_id": 48,
+            "risk_name": "Your family history"
+         },
+         {
+            "risk_id": 49,
+            "risk_name": "Your age"
+         }
+      ]
+   },
+   {
+      "disease_id": 26,
+      "disease_name": "Osteoarthritis",
+      "causes": [
+         {
+            "cause_id": 56,
+            "cause_name": "Older age"
+         },
+         {
+            "cause_id": 7,
+            "cause_name": "Sex"
+         },
+         {
+            "cause_id": 52,
+            "cause_name": "Obesity"
+         },
+         {
+            "cause_id": 57,
+            "cause_name": "Joint injuries"
+         },
+         {
+            "cause_id": 58,
+            "cause_name": "Certain occupations"
+         },
+         {
+            "cause_id": 28,
+            "cause_name": "Genetics"
+         },
+         {
+            "cause_id": 59,
+            "cause_name": "Bone deformities"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 50,
+            "risk_name": "Older age"
+         },
+         {
+            "risk_id": 8,
+            "risk_name": "Sex"
+         },
+         {
+            "risk_id": 24,
+            "risk_name": "Obesity"
+         },
+         {
+            "risk_id": 51,
+            "risk_name": "Joint injuries"
+         },
+         {
+            "risk_id": 52,
+            "risk_name": "Certain occupations"
+         },
+         {
+            "risk_id": 53,
+            "risk_name": "Genetics"
+         },
+         {
+            "risk_id": 54,
+            "risk_name": "Bone deformities"
+         }
+      ]
+   },
+   {
+      "disease_id": 27,
       "disease_name": "Atypical hyperplasia of the breast",
       "causes": [
          {
-            "cause_id": 41,
+            "cause_id": 60,
             "cause_name": "Atypical ductal hyperplasi"
          },
          {
-            "cause_id": 42,
+            "cause_id": 61,
             "cause_name": "Atypical lobular hyperplasi"
          }
       ],
       "risk_factors": []
    },
    {
-      "disease_id": 25,
-      "disease_name": "Vaginal atrophy",
-      "causes": [],
-      "risk_factors": [
-         {
-            "risk_id": 40,
-            "risk_name": "Smoking"
-         },
-         {
-            "risk_id": 41,
-            "risk_name": "No vaginal births"
-         },
-         {
-            "risk_id": 42,
-            "risk_name": "No sexual activity"
-         }
-      ]
-   },
-   {
-      "disease_id": 26,
-      "disease_name": "Reactive attachment disorder",
-      "causes": [],
-      "risk_factors": []
-   },
-   {
-      "disease_id": 27,
-      "disease_name": "Atrioventricular canal defect",
-      "causes": [],
-      "risk_factors": []
-   },
-   {
       "disease_id": 28,
-      "disease_name": "Atrial flutter",
+      "disease_name": "Bird flu (avian influenza)",
       "causes": [],
       "risk_factors": []
    },
    {
       "disease_id": 29,
-      "disease_name": "Atrial fibrillation",
-      "causes": [],
+      "disease_name": "Avascular necrosis",
+      "causes": [
+         {
+            "cause_id": 62,
+            "cause_name": "Joint or bone trauma"
+         },
+         {
+            "cause_id": 63,
+            "cause_name": "Fatty deposits in blood vessels"
+         },
+         {
+            "cause_id": 64,
+            "cause_name": "Certain diseases"
+         }
+      ],
       "risk_factors": [
          {
-            "risk_id": 1,
-            "risk_name": "Age"
+            "risk_id": 55,
+            "risk_name": "Trauma"
          },
          {
-            "risk_id": 43,
-            "risk_name": "Heart disease"
+            "risk_id": 56,
+            "risk_name": "Steroid use"
          },
          {
-            "risk_id": 44,
-            "risk_name": "High blood pressure"
+            "risk_id": 57,
+            "risk_name": "Excessive alcohol use"
          },
          {
-            "risk_id": 45,
-            "risk_name": "Other chronic conditions"
+            "risk_id": 58,
+            "risk_name": "Bisphosphonate us"
          },
          {
-            "risk_id": 46,
-            "risk_name": "Drinking alcohol"
-         },
-         {
-            "risk_id": 9,
-            "risk_name": "Obesity"
-         },
-         {
-            "risk_id": 20,
-            "risk_name": "Family history"
+            "risk_id": 59,
+            "risk_name": "Certain medical treatments"
          }
       ]
    },
    {
       "disease_id": 30,
-      "disease_name": "Atopic dermatitis (eczema)",
+      "disease_name": "Autonomic neuropathy",
       "causes": [
          {
-            "cause_id": 43,
-            "cause_name": "Asthma and hay fever"
+            "cause_id": 65,
+            "cause_name": "Abnormal protein buildu"
          },
          {
-            "cause_id": 44,
-            "cause_name": "Chronic itchy, scaly skin"
+            "cause_id": 66,
+            "cause_name": "Diabetes"
          },
          {
-            "cause_id": 45,
-            "cause_name": "Skin infections"
+            "cause_id": 67,
+            "cause_name": "Certain medications"
          },
          {
-            "cause_id": 46,
-            "cause_name": "Irritant hand dermatitis"
+            "cause_id": 68,
+            "cause_name": "Certain infectious diseases"
          },
          {
-            "cause_id": 47,
-            "cause_name": "Allergic contact dermatitis"
-         },
-         {
-            "cause_id": 48,
-            "cause_name": "Sleep problems"
+            "cause_id": 69,
+            "cause_name": "Inherited disorders"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 47,
-            "risk_name": "Asthma and hay fever"
+            "risk_id": 60,
+            "risk_name": "Diabetes"
          },
          {
-            "risk_id": 48,
-            "risk_name": "Chronic itchy, scaly skin"
-         },
-         {
-            "risk_id": 49,
-            "risk_name": "Skin infections"
-         },
-         {
-            "risk_id": 50,
-            "risk_name": "Irritant hand dermatitis"
-         },
-         {
-            "risk_id": 51,
-            "risk_name": "Allergic contact dermatitis"
-         },
-         {
-            "risk_id": 52,
-            "risk_name": "Sleep problems"
+            "risk_id": 61,
+            "risk_name": "Other diseases"
          }
       ]
    },
    {
       "disease_id": 31,
-      "disease_name": "Athlete's foot",
+      "disease_name": "Autoimmune pancreatitis",
       "causes": [],
       "risk_factors": []
    },
    {
       "disease_id": 32,
-      "disease_name": "Atelectasis",
+      "disease_name": "Autoimmune hepatitis",
       "causes": [
          {
-            "cause_id": 49,
-            "cause_name": "Mucus plug"
+            "cause_id": 70,
+            "cause_name": "Type 1 autoimmune hepatitis"
          },
          {
-            "cause_id": 50,
-            "cause_name": "Foreign body"
+            "cause_id": 71,
+            "cause_name": "Type 2 autoimmune hepatitis"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 62,
+            "risk_name": "Being female"
          },
          {
-            "cause_id": 51,
-            "cause_name": "Narrowing of major airways from disease"
+            "risk_id": 63,
+            "risk_name": "A history of certain infections"
          },
          {
-            "cause_id": 52,
-            "cause_name": "Tumor in a major airway"
+            "risk_id": 64,
+            "risk_name": "Heredity"
          },
          {
-            "cause_id": 53,
-            "cause_name": "Blood clot"
+            "risk_id": 65,
+            "risk_name": "Having an autoimmune disease"
+         }
+      ]
+   },
+   {
+      "disease_id": 33,
+      "disease_name": "Autism spectrum disorder",
+      "causes": [
+         {
+            "cause_id": 28,
+            "cause_name": "Genetics"
+         },
+         {
+            "cause_id": 72,
+            "cause_name": "Environmental factors"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 66,
+            "risk_name": "Your child's sex"
+         },
+         {
+            "risk_id": 4,
+            "risk_name": "Family history"
+         },
+         {
+            "risk_id": 67,
+            "risk_name": "Other disorders"
+         },
+         {
+            "risk_id": 68,
+            "risk_name": "Extremely preterm babies"
+         },
+         {
+            "risk_id": 69,
+            "risk_name": "Parents' ages"
+         }
+      ]
+   },
+   {
+      "disease_id": 34,
+      "disease_name": "Atypical depression",
+      "causes": [
+         {
+            "cause_id": 73,
+            "cause_name": "Brain differences"
+         },
+         {
+            "cause_id": 74,
+            "cause_name": "Inherited traits"
          }
       ],
       "risk_factors": []
    },
    {
-      "disease_id": 33,
+      "disease_id": 35,
+      "disease_name": "Reactive attachment disorder",
+      "causes": [],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 36,
+      "disease_name": "Vaginal atrophy",
+      "causes": [],
+      "risk_factors": [
+         {
+            "risk_id": 44,
+            "risk_name": "Smoking"
+         },
+         {
+            "risk_id": 70,
+            "risk_name": "No vaginal births"
+         },
+         {
+            "risk_id": 71,
+            "risk_name": "No sexual activity"
+         }
+      ]
+   },
+   {
+      "disease_id": 37,
+      "disease_name": "Atrioventricular canal defect",
+      "causes": [],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 38,
+      "disease_name": "Atrial flutter",
+      "causes": [],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 39,
+      "disease_name": "Atrial fibrillation",
+      "causes": [],
+      "risk_factors": [
+         {
+            "risk_id": 0,
+            "risk_name": "Age"
+         },
+         {
+            "risk_id": 72,
+            "risk_name": "Heart disease"
+         },
+         {
+            "risk_id": 7,
+            "risk_name": "High blood pressure"
+         },
+         {
+            "risk_id": 73,
+            "risk_name": "Other chronic conditions"
+         },
+         {
+            "risk_id": 74,
+            "risk_name": "Drinking alcohol"
+         },
+         {
+            "risk_id": 24,
+            "risk_name": "Obesity"
+         },
+         {
+            "risk_id": 4,
+            "risk_name": "Family history"
+         }
+      ]
+   },
+   {
+      "disease_id": 40,
+      "disease_name": "Atopic dermatitis (eczema)",
+      "causes": [
+         {
+            "cause_id": 75,
+            "cause_name": "Asthma and hay fever"
+         },
+         {
+            "cause_id": 76,
+            "cause_name": "Chronic itchy, scaly skin"
+         },
+         {
+            "cause_id": 77,
+            "cause_name": "Skin infections"
+         },
+         {
+            "cause_id": 78,
+            "cause_name": "Irritant hand dermatitis"
+         },
+         {
+            "cause_id": 79,
+            "cause_name": "Allergic contact dermatitis"
+         },
+         {
+            "cause_id": 80,
+            "cause_name": "Sleep problems"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 75,
+            "risk_name": "Asthma and hay fever"
+         },
+         {
+            "risk_id": 76,
+            "risk_name": "Chronic itchy, scaly skin"
+         },
+         {
+            "risk_id": 77,
+            "risk_name": "Skin infections"
+         },
+         {
+            "risk_id": 78,
+            "risk_name": "Irritant hand dermatitis"
+         },
+         {
+            "risk_id": 79,
+            "risk_name": "Allergic contact dermatitis"
+         },
+         {
+            "risk_id": 80,
+            "risk_name": "Sleep problems"
+         }
+      ]
+   },
+   {
+      "disease_id": 41,
+      "disease_name": "Athlete's foot",
+      "causes": [],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 42,
+      "disease_name": "Atelectasis",
+      "causes": [
+         {
+            "cause_id": 81,
+            "cause_name": "Mucus plug"
+         },
+         {
+            "cause_id": 82,
+            "cause_name": "Foreign body"
+         },
+         {
+            "cause_id": 83,
+            "cause_name": "Tumor inside the airway"
+         }
+      ],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 43,
       "disease_name": "Ataxia",
       "causes": [
          {
-            "cause_id": 54,
+            "cause_id": 84,
             "cause_name": "Head trauma"
          },
          {
-            "cause_id": 55,
+            "cause_id": 85,
             "cause_name": "Stroke"
          },
          {
-            "cause_id": 56,
+            "cause_id": 86,
             "cause_name": "Cerebral palsy"
          },
          {
-            "cause_id": 57,
+            "cause_id": 87,
             "cause_name": "Autoimmune diseases"
          },
          {
-            "cause_id": 58,
+            "cause_id": 88,
             "cause_name": "Infections"
          },
          {
-            "cause_id": 59,
+            "cause_id": 89,
             "cause_name": "Paraneoplastic syndromes"
          },
          {
-            "cause_id": 60,
+            "cause_id": 90,
             "cause_name": "Tumor"
          },
          {
-            "cause_id": 61,
+            "cause_id": 91,
             "cause_name": "Vitamin E, vitamin B-12 or thiamine deficiency"
          }
       ],
       "risk_factors": []
    },
    {
-      "disease_id": 34,
+      "disease_id": 44,
       "disease_name": "Astigmatism",
       "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 35,
+      "disease_id": 45,
       "disease_name": "Occupational asthma",
       "causes": [
          {
-            "cause_id": 62,
+            "cause_id": 92,
             "cause_name": "Animal substances"
          },
          {
-            "cause_id": 63,
+            "cause_id": 93,
             "cause_name": "Chemical"
          },
          {
-            "cause_id": 64,
+            "cause_id": 94,
             "cause_name": "Enzyme"
          },
          {
-            "cause_id": 65,
+            "cause_id": 95,
             "cause_name": "Metals"
          },
          {
-            "cause_id": 66,
+            "cause_id": 96,
             "cause_name": "Plant substances"
          },
          {
-            "cause_id": 67,
+            "cause_id": 97,
             "cause_name": "Respiratory irritants"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 53,
+            "risk_id": 81,
             "risk_name": "You have existing allergies or asthma"
          },
          {
-            "risk_id": 54,
+            "risk_id": 82,
             "risk_name": "Allergies or asthma runs in your family"
          },
          {
-            "risk_id": 55,
+            "risk_id": 83,
             "risk_name": "You work around known asthma triggers"
          },
          {
-            "risk_id": 56,
+            "risk_id": 84,
             "risk_name": "You smoke"
          }
       ]
    },
    {
-      "disease_id": 36,
+      "disease_id": 46,
       "disease_name": "Exercise-induced asthma",
       "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 37,
+      "disease_id": 47,
       "disease_name": "Childhood asthma",
       "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 38,
+      "disease_id": 48,
       "disease_name": "Asthma attack",
       "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 39,
+      "disease_id": 49,
       "disease_name": "Asthma",
       "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 40,
-      "disease_name": "Atrial septal defect (ASD)",
-      "causes": [
-         {
-            "cause_id": 68,
-            "cause_name": "Secundum"
-         },
-         {
-            "cause_id": 69,
-            "cause_name": "Primum"
-         },
-         {
-            "cause_id": 70,
-            "cause_name": "Sinus venosus"
-         },
-         {
-            "cause_id": 71,
-            "cause_name": "Coronary sinus"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 57,
-            "risk_name": "Rubella infection"
-         },
-         {
-            "risk_id": 58,
-            "risk_name": "Drug, tobacco or alcohol use, or exposure to certain substances"
-         },
-         {
-            "risk_id": 59,
-            "risk_name": "Diabetes or lupus"
-         },
-         {
-            "risk_id": 9,
-            "risk_name": "Obesity"
-         },
-         {
-            "risk_id": 60,
-            "risk_name": "Phenylketonuria (PKU)"
-         }
-      ]
-   },
-   {
-      "disease_id": 41,
+      "disease_id": 50,
       "disease_name": "Aspergillosis",
       "causes": [
          {
-            "cause_id": 72,
+            "cause_id": 98,
             "cause_name": "Weakened immune system"
          },
          {
-            "cause_id": 73,
+            "cause_id": 99,
             "cause_name": "Low white blood cell level"
          },
          {
-            "cause_id": 74,
+            "cause_id": 100,
             "cause_name": "Lung cavities"
          },
          {
-            "cause_id": 75,
+            "cause_id": 101,
             "cause_name": "Asthma or cystic fibrosis"
          },
          {
-            "cause_id": 76,
+            "cause_id": 102,
             "cause_name": "Long-term corticosteroid therapy"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 61,
+            "risk_id": 85,
             "risk_name": "Weakened immune system"
          },
          {
-            "risk_id": 62,
+            "risk_id": 86,
             "risk_name": "Low white blood cell level"
          },
          {
-            "risk_id": 63,
+            "risk_id": 87,
             "risk_name": "Lung cavities"
          },
          {
-            "risk_id": 64,
+            "risk_id": 88,
             "risk_name": "Asthma or cystic fibrosis"
          },
          {
-            "risk_id": 65,
+            "risk_id": 89,
             "risk_name": "Long-term corticosteroid therapy"
          }
       ]
    },
    {
-      "disease_id": 42,
-      "disease_name": "Asbestosis",
-      "causes": [],
-      "risk_factors": []
-   },
-   {
-      "disease_id": 43,
-      "disease_name": "Reactive arthritis",
-      "causes": [],
-      "risk_factors": [
-         {
-            "risk_id": 1,
-            "risk_name": "Age"
-         },
-         {
-            "risk_id": 0,
-            "risk_name": "Sex"
-         },
-         {
-            "risk_id": 66,
-            "risk_name": "Hereditary factors"
-         }
-      ]
-   },
-   {
-      "disease_id": 44,
-      "disease_name": "Rheumatoid arthritis",
-      "causes": [
-         {
-            "cause_id": 12,
-            "cause_name": "Your sex"
-         },
-         {
-            "cause_id": 1,
-            "cause_name": "Age"
-         },
-         {
-            "cause_id": 77,
-            "cause_name": "Family history"
-         },
-         {
-            "cause_id": 78,
-            "cause_name": "Smoking"
-         },
-         {
-            "cause_id": 79,
-            "cause_name": "Environmental exposures"
-         },
-         {
-            "cause_id": 80,
-            "cause_name": "Obesity"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 14,
-            "risk_name": "Your sex"
-         },
-         {
-            "risk_id": 1,
-            "risk_name": "Age"
-         },
-         {
-            "risk_id": 20,
-            "risk_name": "Family history"
-         },
-         {
-            "risk_id": 40,
-            "risk_name": "Smoking"
-         },
-         {
-            "risk_id": 67,
-            "risk_name": "Environmental exposures"
-         },
-         {
-            "risk_id": 9,
-            "risk_name": "Obesity"
-         }
-      ]
-   },
-   {
-      "disease_id": 45,
-      "disease_name": "Osteoarthritis",
-      "causes": [
-         {
-            "cause_id": 81,
-            "cause_name": "Older age"
-         },
-         {
-            "cause_id": 0,
-            "cause_name": "Sex"
-         },
-         {
-            "cause_id": 80,
-            "cause_name": "Obesity"
-         },
-         {
-            "cause_id": 82,
-            "cause_name": "Joint injuries"
-         },
-         {
-            "cause_id": 83,
-            "cause_name": "Certain occupations"
-         },
-         {
-            "cause_id": 37,
-            "cause_name": "Genetics"
-         },
-         {
-            "cause_id": 84,
-            "cause_name": "Bone deformities"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 68,
-            "risk_name": "Older age"
-         },
-         {
-            "risk_id": 0,
-            "risk_name": "Sex"
-         },
-         {
-            "risk_id": 9,
-            "risk_name": "Obesity"
-         },
-         {
-            "risk_id": 69,
-            "risk_name": "Joint injuries"
-         },
-         {
-            "risk_id": 70,
-            "risk_name": "Certain occupations"
-         },
-         {
-            "risk_id": 71,
-            "risk_name": "Genetics"
-         },
-         {
-            "risk_id": 72,
-            "risk_name": "Bone deformities"
-         }
-      ]
-   },
-   {
-      "disease_id": 46,
-      "disease_name": "Psoriatic arthritis",
-      "causes": [
-         {
-            "cause_id": 85,
-            "cause_name": "Psoriasis"
-         },
-         {
-            "cause_id": 86,
-            "cause_name": "Your family history"
-         },
-         {
-            "cause_id": 87,
-            "cause_name": "Your age"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 73,
-            "risk_name": "Psoriasis"
-         },
-         {
-            "risk_id": 74,
-            "risk_name": "Your family history"
-         },
-         {
-            "risk_id": 75,
-            "risk_name": "Your age"
-         }
-      ]
-   },
-   {
-      "disease_id": 47,
-      "disease_name": "Ascariasis",
-      "causes": [
-         {
-            "cause_id": 88,
-            "cause_name": "Ingestion"
-         },
-         {
-            "cause_id": 89,
-            "cause_name": "Migration"
-         },
-         {
-            "cause_id": 90,
-            "cause_name": "Maturation"
-         },
-         {
-            "cause_id": 91,
-            "cause_name": "Reproduction"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 1,
-            "risk_name": "Age"
-         },
-         {
-            "risk_id": 76,
-            "risk_name": "Warm climate"
-         },
-         {
-            "risk_id": 77,
-            "risk_name": "Poor sanitation"
-         }
-      ]
-   },
-   {
-      "disease_id": 48,
+      "disease_id": 51,
       "disease_name": "Juvenile idiopathic arthritis",
       "causes": [
          {
-            "cause_id": 92,
+            "cause_id": 103,
             "cause_name": "Growth problems"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 78,
+            "risk_id": 90,
             "risk_name": "Growth problems"
          }
       ]
    },
    {
-      "disease_id": 49,
+      "disease_id": 52,
       "disease_name": "Septic arthritis",
       "causes": [
          {
-            "cause_id": 93,
+            "cause_id": 104,
             "cause_name": "Existing joint problems"
          },
          {
-            "cause_id": 94,
+            "cause_id": 105,
             "cause_name": "Taking medications for rheumatoid arthritis"
          },
          {
-            "cause_id": 95,
+            "cause_id": 106,
             "cause_name": "Skin fragility"
          },
          {
-            "cause_id": 96,
+            "cause_id": 107,
             "cause_name": "Weak immune system"
          },
          {
-            "cause_id": 97,
+            "cause_id": 108,
             "cause_name": "Joint trauma"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 79,
+            "risk_id": 91,
             "risk_name": "Existing joint problems"
          },
          {
-            "risk_id": 80,
+            "risk_id": 92,
             "risk_name": "Taking medications for rheumatoid arthritis"
          },
          {
-            "risk_id": 81,
+            "risk_id": 93,
             "risk_name": "Skin fragility"
          },
          {
-            "risk_id": 82,
+            "risk_id": 94,
             "risk_name": "Weak immune system"
          },
          {
-            "risk_id": 83,
+            "risk_id": 95,
             "risk_name": "Joint trauma"
          }
       ]
    },
    {
-      "disease_id": 50,
+      "disease_id": 53,
       "disease_name": "Gout",
       "causes": [
          {
-            "cause_id": 98,
+            "cause_id": 109,
             "cause_name": "Diet"
          },
          {
-            "cause_id": 80,
+            "cause_id": 52,
             "cause_name": "Obesity"
          },
          {
-            "cause_id": 15,
+            "cause_id": 22,
             "cause_name": "Medical conditions"
          },
          {
-            "cause_id": 99,
+            "cause_id": 67,
             "cause_name": "Certain medications"
          },
          {
-            "cause_id": 100,
+            "cause_id": 110,
             "cause_name": "Family history of gout"
          },
          {
-            "cause_id": 101,
+            "cause_id": 111,
             "cause_name": "Age and sex"
          },
          {
-            "cause_id": 102,
+            "cause_id": 112,
             "cause_name": "Recent surgery or trauma"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 84,
+            "risk_id": 96,
             "risk_name": "Diet"
          },
          {
-            "risk_id": 9,
+            "risk_id": 24,
             "risk_name": "Obesity"
          },
          {
-            "risk_id": 17,
+            "risk_id": 28,
             "risk_name": "Medical conditions"
          },
          {
-            "risk_id": 85,
+            "risk_id": 97,
             "risk_name": "Certain medications"
          },
          {
-            "risk_id": 86,
+            "risk_id": 98,
             "risk_name": "Family history of gout"
          },
          {
-            "risk_id": 87,
+            "risk_id": 99,
             "risk_name": "Age and sex"
          },
          {
-            "risk_id": 88,
+            "risk_id": 100,
             "risk_name": "Recent surgery or trauma"
          }
       ]
    },
    {
-      "disease_id": 51,
+      "disease_id": 54,
       "disease_name": "Thumb arthritis",
       "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 52,
+      "disease_id": 55,
       "disease_name": "Arthritis",
       "causes": [
          {
-            "cause_id": 77,
+            "cause_id": 49,
             "cause_name": "Family history"
          },
          {
-            "cause_id": 1,
+            "cause_id": 8,
             "cause_name": "Age"
          },
          {
-            "cause_id": 12,
+            "cause_id": 19,
             "cause_name": "Your sex"
          },
          {
-            "cause_id": 103,
+            "cause_id": 113,
             "cause_name": "Previous joint injury"
          },
          {
-            "cause_id": 80,
+            "cause_id": 52,
             "cause_name": "Obesity"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 20,
+            "risk_id": 4,
             "risk_name": "Family history"
          },
          {
-            "risk_id": 1,
+            "risk_id": 0,
             "risk_name": "Age"
          },
          {
-            "risk_id": 14,
+            "risk_id": 25,
             "risk_name": "Your sex"
          },
          {
-            "risk_id": 89,
+            "risk_id": 101,
             "risk_name": "Previous joint injury"
          },
          {
-            "risk_id": 9,
+            "risk_id": 24,
             "risk_name": "Obesity"
          }
       ]
    },
    {
-      "disease_id": 53,
-      "disease_name": "Giant cell arteritis",
+      "disease_id": 56,
+      "disease_name": "Takayasu's arteritis",
       "causes": [
          {
-            "cause_id": 1,
-            "cause_name": "Age"
+            "cause_id": 114,
+            "cause_name": "Hardening and narrowing of blood vessels"
          },
          {
-            "cause_id": 0,
-            "cause_name": "Sex"
+            "cause_id": 2,
+            "cause_name": "High blood pressure"
          },
          {
-            "cause_id": 104,
-            "cause_name": "Race and geographic region"
+            "cause_id": 115,
+            "cause_name": "Inflammation of the heart"
          },
          {
-            "cause_id": 105,
-            "cause_name": "Polymyalgia rheumatica"
+            "cause_id": 116,
+            "cause_name": "Heart failur"
          },
          {
-            "cause_id": 77,
-            "cause_name": "Family history"
+            "cause_id": 85,
+            "cause_name": "Stroke"
+         },
+         {
+            "cause_id": 117,
+            "cause_name": "Transient ischemic attack (TIA)"
+         },
+         {
+            "cause_id": 118,
+            "cause_name": "Aneurysm in the aorta"
+         },
+         {
+            "cause_id": 119,
+            "cause_name": "Heart attack"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 1,
-            "risk_name": "Age"
+            "risk_id": 102,
+            "risk_name": "Hardening and narrowing of blood vessels"
          },
          {
-            "risk_id": 0,
-            "risk_name": "Sex"
-         },
-         {
-            "risk_id": 90,
-            "risk_name": "Race and geographic region"
-         },
-         {
-            "risk_id": 91,
-            "risk_name": "Polymyalgia rheumatica"
-         },
-         {
-            "risk_id": 20,
-            "risk_name": "Family history"
-         }
-      ]
-   },
-   {
-      "disease_id": 54,
-      "disease_name": "Arteriovenous malformation",
-      "causes": [],
-      "risk_factors": []
-   },
-   {
-      "disease_id": 55,
-      "disease_name": "Arteriosclerosis / atherosclerosis",
-      "causes": [],
-      "risk_factors": []
-   },
-   {
-      "disease_id": 56,
-      "disease_name": "Heart arrhythmia",
-      "causes": [],
-      "risk_factors": [
-         {
-            "risk_id": 92,
-            "risk_name": "Coronary artery disease, other heart problems and previous heart surgery"
-         },
-         {
-            "risk_id": 44,
+            "risk_id": 7,
             "risk_name": "High blood pressure"
          },
          {
-            "risk_id": 93,
-            "risk_name": "Congenital heart disease"
+            "risk_id": 103,
+            "risk_name": "Inflammation of the heart"
          },
          {
-            "risk_id": 94,
-            "risk_name": "Thyroid problems"
+            "risk_id": 104,
+            "risk_name": "Heart failur"
          },
          {
-            "risk_id": 95,
-            "risk_name": "Drugs and supplements"
+            "risk_id": 105,
+            "risk_name": "Stroke"
          },
          {
-            "risk_id": 96,
-            "risk_name": "Diabetes"
+            "risk_id": 106,
+            "risk_name": "Transient ischemic attack (TIA)"
          },
          {
-            "risk_id": 97,
-            "risk_name": "Obstructive sleep apnea"
+            "risk_id": 107,
+            "risk_name": "Aneurysm in the aorta"
          },
          {
-            "risk_id": 98,
-            "risk_name": "Electrolyte imbalance"
-         },
-         {
-            "risk_id": 99,
-            "risk_name": "Drinking too much alcohol"
-         },
-         {
-            "risk_id": 100,
-            "risk_name": "Caffeine or nicotine use"
+            "risk_id": 108,
+            "risk_name": "Heart attack"
          }
       ]
    },
    {
       "disease_id": 57,
-      "disease_name": "Arteriovenous fistula",
+      "disease_name": "Giant cell arteritis",
       "causes": [
          {
-            "cause_id": 106,
-            "cause_name": "Injuries that pierce the skin"
+            "cause_id": 8,
+            "cause_name": "Age"
          },
          {
-            "cause_id": 107,
-            "cause_name": "Being born with an arteriovenous fistula"
+            "cause_id": 7,
+            "cause_name": "Sex"
          },
          {
-            "cause_id": 108,
-            "cause_name": "Genetic conditions"
+            "cause_id": 120,
+            "cause_name": "Race and geographic region"
+         },
+         {
+            "cause_id": 121,
+            "cause_name": "Polymyalgia rheumatica"
+         },
+         {
+            "cause_id": 49,
+            "cause_name": "Family history"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 101,
-            "risk_name": "Cardiac catheterization"
+            "risk_id": 0,
+            "risk_name": "Age"
          },
          {
-            "risk_id": 102,
-            "risk_name": "High blood pressur"
+            "risk_id": 8,
+            "risk_name": "Sex"
          },
          {
-            "risk_id": 103,
-            "risk_name": "High body mass inde"
+            "risk_id": 109,
+            "risk_name": "Race and geographic region"
          },
          {
-            "risk_id": 85,
-            "risk_name": "Certain medications"
+            "risk_id": 110,
+            "risk_name": "Polymyalgia rheumatica"
          },
          {
-            "risk_id": 104,
-            "risk_name": "Older ag"
-         },
-         {
-            "risk_id": 105,
-            "risk_name": "Being femal"
+            "risk_id": 4,
+            "risk_name": "Family history"
          }
       ]
    },
    {
       "disease_id": 58,
-      "disease_name": "Broken arm",
+      "disease_name": "Arteriovenous malformation",
+      "causes": [],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 59,
+      "disease_name": "Arteriovenous fistula",
       "causes": [
          {
-            "cause_id": 109,
-            "cause_name": "Falls"
+            "cause_id": 122,
+            "cause_name": "Injuries that pierce the skin"
          },
          {
-            "cause_id": 110,
-            "cause_name": "Sports injuries"
+            "cause_id": 123,
+            "cause_name": "Being born with an arteriovenous fistula"
          },
          {
-            "cause_id": 111,
-            "cause_name": "Significant trauma"
-         },
-         {
-            "cause_id": 112,
-            "cause_name": "Child abuse"
+            "cause_id": 124,
+            "cause_name": "Genetic conditions"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 106,
-            "risk_name": "Uneven growth"
-         },
-         {
-            "risk_id": 107,
-            "risk_name": "Osteoarthritis"
-         },
-         {
-            "risk_id": 108,
-            "risk_name": "Stiffness"
-         },
-         {
-            "risk_id": 109,
-            "risk_name": "Bone infection"
-         },
-         {
-            "risk_id": 110,
-            "risk_name": "Nerve or blood vessel injury"
-         },
-         {
             "risk_id": 111,
-            "risk_name": "Compartment syndrome"
+            "risk_name": "Cardiac catheterization"
+         },
+         {
+            "risk_id": 112,
+            "risk_name": "High blood pressur"
+         },
+         {
+            "risk_id": 113,
+            "risk_name": "High body mass inde"
+         },
+         {
+            "risk_id": 97,
+            "risk_name": "Certain medications"
+         },
+         {
+            "risk_id": 114,
+            "risk_name": "Older ag"
+         },
+         {
+            "risk_id": 115,
+            "risk_name": "Being femal"
          }
       ]
    },
    {
-      "disease_id": 59,
+      "disease_id": 60,
+      "disease_name": "Arteriosclerosis / atherosclerosis",
+      "causes": [],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 61,
+      "disease_name": "Heart arrhythmia",
+      "causes": [],
+      "risk_factors": [
+         {
+            "risk_id": 116,
+            "risk_name": "Coronary artery disease, other heart problems and previous heart surgery"
+         },
+         {
+            "risk_id": 7,
+            "risk_name": "High blood pressure"
+         },
+         {
+            "risk_id": 117,
+            "risk_name": "Congenital heart disease"
+         },
+         {
+            "risk_id": 118,
+            "risk_name": "Thyroid problems"
+         },
+         {
+            "risk_id": 119,
+            "risk_name": "Drugs and supplements"
+         },
+         {
+            "risk_id": 60,
+            "risk_name": "Diabetes"
+         },
+         {
+            "risk_id": 120,
+            "risk_name": "Obstructive sleep apnea"
+         },
+         {
+            "risk_id": 121,
+            "risk_name": "Electrolyte imbalance"
+         },
+         {
+            "risk_id": 122,
+            "risk_name": "Drinking too much alcohol"
+         },
+         {
+            "risk_id": 123,
+            "risk_name": "Caffeine or nicotine use"
+         }
+      ]
+   },
+   {
+      "disease_id": 62,
       "disease_name": "Viral hemorrhagic fevers",
       "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 60,
+      "disease_id": 63,
       "disease_name": "Appendicitis",
       "causes": [
          {
-            "cause_id": 113,
+            "cause_id": 125,
             "cause_name": "A ruptured appendix"
          }
       ],
       "risk_factors": []
    },
    {
-      "disease_id": 61,
+      "disease_id": 64,
       "disease_name": "Obstructive sleep apnea",
       "causes": [
          {
-            "cause_id": 114,
+            "cause_id": 126,
             "cause_name": "Narrowed airway"
          },
          {
-            "cause_id": 115,
+            "cause_id": 127,
             "cause_name": "High blood pressure (hypertension)"
          },
          {
-            "cause_id": 116,
+            "cause_id": 128,
             "cause_name": "Chronic nasal congestion"
          },
          {
-            "cause_id": 78,
+            "cause_id": 50,
             "cause_name": "Smoking"
          },
          {
-            "cause_id": 29,
+            "cause_id": 66,
             "cause_name": "Diabetes"
          },
          {
-            "cause_id": 0,
+            "cause_id": 7,
             "cause_name": "Sex"
          },
          {
-            "cause_id": 117,
+            "cause_id": 129,
             "cause_name": "A family history of sleep apnea"
          },
          {
-            "cause_id": 118,
+            "cause_id": 130,
             "cause_name": "Asthma"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 112,
+            "risk_id": 124,
             "risk_name": "Narrowed airway"
          },
          {
-            "risk_id": 113,
+            "risk_id": 125,
             "risk_name": "High blood pressure (hypertension)"
          },
          {
-            "risk_id": 114,
+            "risk_id": 126,
             "risk_name": "Chronic nasal congestion"
          },
          {
-            "risk_id": 40,
+            "risk_id": 44,
             "risk_name": "Smoking"
          },
          {
-            "risk_id": 96,
+            "risk_id": 60,
             "risk_name": "Diabetes"
          },
          {
-            "risk_id": 0,
+            "risk_id": 8,
             "risk_name": "Sex"
          },
          {
-            "risk_id": 115,
+            "risk_id": 127,
             "risk_name": "A family history of sleep apnea"
          },
          {
-            "risk_id": 116,
+            "risk_id": 128,
             "risk_name": "Asthma"
          }
       ]
    },
    {
-      "disease_id": 62,
+      "disease_id": 65,
       "disease_name": "Central sleep apnea",
       "causes": [
          {
-            "cause_id": 119,
+            "cause_id": 131,
             "cause_name": "Cheyne-Stokes breathing"
          },
          {
-            "cause_id": 120,
+            "cause_id": 132,
             "cause_name": "Drug-induced apnea"
          },
          {
-            "cause_id": 121,
+            "cause_id": 133,
             "cause_name": "High-altitude periodic breathing"
          },
          {
-            "cause_id": 122,
+            "cause_id": 134,
             "cause_name": "Complex sleep apnea"
          },
          {
-            "cause_id": 123,
+            "cause_id": 135,
             "cause_name": "Medical condition-induced central sleep apnea"
          },
          {
-            "cause_id": 124,
+            "cause_id": 136,
             "cause_name": "Idiopathic (primary) central sleep apnea"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 0,
+            "risk_id": 8,
             "risk_name": "Sex"
          },
          {
-            "risk_id": 1,
+            "risk_id": 0,
             "risk_name": "Age"
          },
          {
-            "risk_id": 117,
+            "risk_id": 129,
             "risk_name": "Heart disorders"
          },
          {
-            "risk_id": 118,
+            "risk_id": 130,
             "risk_name": "Stroke, brain tumor or a structural brainstem lesion"
          },
          {
-            "risk_id": 119,
+            "risk_id": 131,
             "risk_name": "High altitude"
          },
          {
-            "risk_id": 120,
+            "risk_id": 132,
             "risk_name": "Opioid use"
          }
       ]
    },
    {
-      "disease_id": 63,
-      "disease_name": "Broken heart syndrome",
-      "causes": [],
-      "risk_factors": [
-         {
-            "risk_id": 0,
-            "risk_name": "Sex"
-         },
-         {
-            "risk_id": 1,
-            "risk_name": "Age"
-         },
-         {
-            "risk_id": 121,
-            "risk_name": "A history of a neurological condition"
-         },
-         {
-            "risk_id": 122,
-            "risk_name": "A previous or current psychiatric disorder"
-         }
-      ]
-   },
-   {
-      "disease_id": 64,
+      "disease_id": 66,
       "disease_name": "Sleep apnea",
       "causes": [
          {
-            "cause_id": 125,
+            "cause_id": 137,
             "cause_name": "Excess weight"
          },
          {
-            "cause_id": 126,
+            "cause_id": 138,
             "cause_name": "Neck circumference"
          },
          {
-            "cause_id": 127,
+            "cause_id": 139,
             "cause_name": "A narrowed airway"
          },
          {
-            "cause_id": 128,
+            "cause_id": 140,
             "cause_name": "Being male"
          },
          {
-            "cause_id": 129,
+            "cause_id": 141,
             "cause_name": "Being older"
          },
          {
-            "cause_id": 77,
+            "cause_id": 49,
             "cause_name": "Family history"
          },
          {
-            "cause_id": 130,
+            "cause_id": 142,
             "cause_name": "Use of alcohol, sedatives or tranquilizers"
          },
          {
-            "cause_id": 78,
+            "cause_id": 50,
             "cause_name": "Smoking"
          },
          {
-            "cause_id": 131,
+            "cause_id": 143,
             "cause_name": "Nasal congestion"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 123,
+            "risk_id": 133,
             "risk_name": "Excess weight"
          },
          {
-            "risk_id": 124,
+            "risk_id": 134,
             "risk_name": "Neck circumference"
          },
          {
-            "risk_id": 125,
+            "risk_id": 135,
             "risk_name": "A narrowed airway"
          },
          {
-            "risk_id": 126,
+            "risk_id": 2,
             "risk_name": "Being male"
          },
          {
-            "risk_id": 127,
+            "risk_id": 136,
             "risk_name": "Being older"
          },
          {
-            "risk_id": 20,
+            "risk_id": 4,
             "risk_name": "Family history"
          },
          {
-            "risk_id": 128,
+            "risk_id": 137,
             "risk_name": "Use of alcohol, sedatives or tranquilizers"
          },
          {
-            "risk_id": 40,
+            "risk_id": 44,
             "risk_name": "Smoking"
          },
          {
-            "risk_id": 129,
+            "risk_id": 138,
             "risk_name": "Nasal congestion"
          }
       ]
    },
    {
-      "disease_id": 65,
+      "disease_id": 67,
+      "disease_name": "Broken heart syndrome",
+      "causes": [],
+      "risk_factors": [
+         {
+            "risk_id": 8,
+            "risk_name": "Sex"
+         },
+         {
+            "risk_id": 0,
+            "risk_name": "Age"
+         },
+         {
+            "risk_id": 139,
+            "risk_name": "A history of a neurological condition"
+         },
+         {
+            "risk_id": 140,
+            "risk_name": "A previous or current psychiatric disorder"
+         }
+      ]
+   },
+   {
+      "disease_id": 68,
       "disease_name": "Canker sore",
       "causes": [],
       "risk_factors": [
          {
-            "risk_id": 130,
+            "risk_id": 141,
             "risk_name": "Watch what you eat"
          },
          {
-            "risk_id": 131,
+            "risk_id": 142,
             "risk_name": "Choose healthy foods"
          },
          {
-            "risk_id": 132,
+            "risk_id": 143,
             "risk_name": "Follow good oral hygiene habits"
          },
          {
-            "risk_id": 133,
+            "risk_id": 144,
             "risk_name": "Protect your mouth"
          },
          {
-            "risk_id": 134,
+            "risk_id": 145,
             "risk_name": "Reduce your stress"
          }
       ]
    },
    {
-      "disease_id": 66,
+      "disease_id": 69,
       "disease_name": "Primary progressive aphasia",
       "causes": [
          {
-            "cause_id": 132,
+            "cause_id": 144,
             "cause_name": "Having learning disabilities"
          },
          {
-            "cause_id": 133,
+            "cause_id": 145,
             "cause_name": "Having certain gene mutations"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 135,
+            "risk_id": 146,
             "risk_name": "Having learning disabilities"
          },
          {
-            "risk_id": 136,
+            "risk_id": 147,
             "risk_name": "Having certain gene mutations"
          }
       ]
    },
    {
-      "disease_id": 67,
+      "disease_id": 70,
       "disease_name": "Aphasia",
       "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 68,
+      "disease_id": 71,
       "disease_name": "Aortic valve stenosis",
       "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 69,
-      "disease_name": "Aortic valve disease",
-      "causes": [],
-      "risk_factors": []
-   },
-   {
-      "disease_id": 70,
-      "disease_name": "Aortic dissection",
-      "causes": [
-         {
-            "cause_id": 134,
-            "cause_name": "Type A"
-         },
-         {
-            "cause_id": 135,
-            "cause_name": "Type B"
-         }
-      ],
-      "risk_factors": []
-   },
-   {
-      "disease_id": 71,
+      "disease_id": 72,
       "disease_name": "Aortic valve regurgitation",
       "causes": [
          {
-            "cause_id": 136,
+            "cause_id": 146,
             "cause_name": "Age-related changes to the heart"
          },
          {
-            "cause_id": 137,
+            "cause_id": 147,
             "cause_name": "Endocarditis"
          },
          {
-            "cause_id": 138,
+            "cause_id": 148,
             "cause_name": "Rheumatic fever"
          },
          {
-            "cause_id": 139,
+            "cause_id": 149,
             "cause_name": "Other diseases"
          },
          {
-            "cause_id": 140,
+            "cause_id": 5,
             "cause_name": "Trauma"
          }
       ],
       "risk_factors": []
    },
    {
-      "disease_id": 72,
+      "disease_id": 73,
+      "disease_name": "Aortic valve disease",
+      "causes": [],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 74,
+      "disease_name": "Aortic dissection",
+      "causes": [
+         {
+            "cause_id": 150,
+            "cause_name": "Type A"
+         },
+         {
+            "cause_id": 151,
+            "cause_name": "Type B"
+         }
+      ],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 75,
       "disease_name": "Coarctation of the aorta",
       "causes": [
          {
-            "cause_id": 141,
+            "cause_id": 152,
             "cause_name": "Bicuspid aortic valve"
          },
          {
-            "cause_id": 142,
+            "cause_id": 153,
             "cause_name": "Aortic valve regurgitation"
          },
          {
-            "cause_id": 143,
+            "cause_id": 154,
             "cause_name": "Mitral valve regurgitation"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 137,
+            "risk_id": 148,
             "risk_name": "Bicuspid aortic valve"
          },
          {
-            "risk_id": 138,
+            "risk_id": 149,
             "risk_name": "Aortic valve regurgitation"
          },
          {
-            "risk_id": 139,
-            "risk_name": "Mitral valve regurgitation"
-         }
-      ]
-   },
-   {
-      "disease_id": 73,
-      "disease_name": "Anxiety disorders",
-      "causes": [],
-      "risk_factors": [
-         {
-            "risk_id": 26,
-            "risk_name": "Trauma"
-         },
-         {
-            "risk_id": 140,
-            "risk_name": "Stress due to an illness"
-         },
-         {
-            "risk_id": 141,
-            "risk_name": "Stress buildup"
-         },
-         {
-            "risk_id": 142,
-            "risk_name": "Personality"
-         },
-         {
-            "risk_id": 143,
-            "risk_name": "Other mental health disorders"
-         },
-         {
-            "risk_id": 144,
-            "risk_name": "Having blood relatives with an anxiety disorder"
-         },
-         {
-            "risk_id": 145,
-            "risk_name": "Drugs or alcohol"
-         }
-      ]
-   },
-   {
-      "disease_id": 74,
-      "disease_name": "Social anxiety disorder (social phobia)",
-      "causes": [
-         {
-            "cause_id": 40,
-            "cause_name": "Inherited traits"
-         },
-         {
-            "cause_id": 144,
-            "cause_name": "Brain structure"
-         },
-         {
-            "cause_id": 145,
-            "cause_name": "Environment"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 20,
-            "risk_name": "Family history"
-         },
-         {
-            "risk_id": 146,
-            "risk_name": "Negative experiences"
-         },
-         {
-            "risk_id": 147,
-            "risk_name": "Temperament"
-         },
-         {
-            "risk_id": 148,
-            "risk_name": "New social or work demands"
-         },
-         {
-            "risk_id": 149,
-            "risk_name": "Having an appearance or condition that draws attention"
-         }
-      ]
-   },
-   {
-      "disease_id": 75,
-      "disease_name": "Generalized anxiety disorder",
-      "causes": [],
-      "risk_factors": [
-         {
-            "risk_id": 142,
-            "risk_name": "Personality"
-         },
-         {
-            "risk_id": 71,
-            "risk_name": "Genetics"
-         },
-         {
             "risk_id": 150,
-            "risk_name": "Experiences"
+            "risk_name": "Mitral valve regurgitation"
          }
       ]
    },
@@ -2018,2526 +2075,2578 @@
    },
    {
       "disease_id": 77,
+      "disease_name": "Anxiety disorders",
+      "causes": [],
+      "risk_factors": [
+         {
+            "risk_id": 55,
+            "risk_name": "Trauma"
+         },
+         {
+            "risk_id": 151,
+            "risk_name": "Stress due to an illness"
+         },
+         {
+            "risk_id": 152,
+            "risk_name": "Stress buildup"
+         },
+         {
+            "risk_id": 153,
+            "risk_name": "Personality"
+         },
+         {
+            "risk_id": 154,
+            "risk_name": "Other mental health disorders"
+         },
+         {
+            "risk_id": 155,
+            "risk_name": "Having blood relatives with an anxiety disorder"
+         },
+         {
+            "risk_id": 156,
+            "risk_name": "Drugs or alcohol"
+         }
+      ]
+   },
+   {
+      "disease_id": 78,
+      "disease_name": "Social anxiety disorder (social phobia)",
+      "causes": [
+         {
+            "cause_id": 74,
+            "cause_name": "Inherited traits"
+         },
+         {
+            "cause_id": 155,
+            "cause_name": "Brain structure"
+         },
+         {
+            "cause_id": 29,
+            "cause_name": "Environment"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 4,
+            "risk_name": "Family history"
+         },
+         {
+            "risk_id": 157,
+            "risk_name": "Negative experiences"
+         },
+         {
+            "risk_id": 158,
+            "risk_name": "Temperament"
+         },
+         {
+            "risk_id": 159,
+            "risk_name": "New social or work demands"
+         },
+         {
+            "risk_id": 160,
+            "risk_name": "Having an appearance or condition that draws attention"
+         }
+      ]
+   },
+   {
+      "disease_id": 79,
+      "disease_name": "Generalized anxiety disorder",
+      "causes": [],
+      "risk_factors": [
+         {
+            "risk_id": 153,
+            "risk_name": "Personality"
+         },
+         {
+            "risk_id": 53,
+            "risk_name": "Genetics"
+         },
+         {
+            "risk_id": 161,
+            "risk_name": "Experiences"
+         }
+      ]
+   },
+   {
+      "disease_id": 80,
       "disease_name": "Antisocial personality disorder",
       "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 78,
-      "disease_name": "Antibiotic-associated diarrhea",
-      "causes": [],
-      "risk_factors": []
-   },
-   {
-      "disease_id": 79,
+      "disease_id": 81,
       "disease_name": "Antiphospholipid syndrome",
       "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 80,
+      "disease_id": 82,
+      "disease_name": "Antibiotic-associated diarrhea",
+      "causes": [],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 83,
       "disease_name": "Pseudomembranous colitis",
       "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 81,
+      "disease_id": 84,
       "disease_name": "Anthrax",
       "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 82,
+      "disease_id": 85,
       "disease_name": "Anterior prolapse (cystocele)",
       "causes": [],
       "risk_factors": [
          {
-            "risk_id": 151,
+            "risk_id": 162,
             "risk_name": "Childbirth"
          },
          {
-            "risk_id": 152,
+            "risk_id": 163,
             "risk_name": "Aging"
          },
          {
-            "risk_id": 153,
+            "risk_id": 164,
             "risk_name": "Hysterectomy"
          },
          {
-            "risk_id": 71,
+            "risk_id": 53,
             "risk_name": "Genetics"
          },
          {
-            "risk_id": 9,
+            "risk_id": 24,
             "risk_name": "Obesity"
          }
       ]
    },
    {
-      "disease_id": 83,
-      "disease_name": "Tongue-tie (ankyloglossia)",
-      "causes": [
-         {
-            "cause_id": 146,
-            "cause_name": "Breast-feeding problems"
-         },
-         {
-            "cause_id": 147,
-            "cause_name": "Speech difficulties"
-         },
-         {
-            "cause_id": 148,
-            "cause_name": "Poor oral hygiene"
-         },
-         {
-            "cause_id": 149,
-            "cause_name": "Challenges with other oral activities"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 154,
-            "risk_name": "Breast-feeding problems"
-         },
-         {
-            "risk_id": 155,
-            "risk_name": "Speech difficulties"
-         },
-         {
-            "risk_id": 156,
-            "risk_name": "Poor oral hygiene"
-         },
-         {
-            "risk_id": 157,
-            "risk_name": "Challenges with other oral activities"
-         }
-      ]
-   },
-   {
-      "disease_id": 84,
-      "disease_name": "Sprained ankle",
-      "causes": [],
-      "risk_factors": [
-         {
-            "risk_id": 158,
-            "risk_name": "Sports participation"
-         },
-         {
-            "risk_id": 159,
-            "risk_name": "Uneven surfaces"
-         },
-         {
-            "risk_id": 160,
-            "risk_name": "Prior ankle injury"
-         },
-         {
-            "risk_id": 161,
-            "risk_name": "Poor physical condition"
-         },
-         {
-            "risk_id": 162,
-            "risk_name": "Improper shoes"
-         }
-      ]
-   },
-   {
-      "disease_id": 85,
-      "disease_name": "Broken ankle/broken foot",
-      "causes": [
-         {
-            "cause_id": 150,
-            "cause_name": "Car accidents"
-         },
-         {
-            "cause_id": 109,
-            "cause_name": "Falls"
-         },
-         {
-            "cause_id": 151,
-            "cause_name": "Impact from a heavy weight"
-         },
-         {
-            "cause_id": 152,
-            "cause_name": "Missteps"
-         },
-         {
-            "cause_id": 153,
-            "cause_name": "Overuse"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 163,
-            "risk_name": "Participate in high-impact sports"
-         },
-         {
-            "risk_id": 164,
-            "risk_name": "Use improper technique or sports equipment"
-         },
-         {
-            "risk_id": 165,
-            "risk_name": "Suddenly increase your activity level"
-         },
-         {
-            "risk_id": 166,
-            "risk_name": "Work in certain occupations"
-         },
-         {
-            "risk_id": 167,
-            "risk_name": "Keep your home cluttered or poorly lit"
-         },
-         {
-            "risk_id": 168,
-            "risk_name": "Have certain conditions"
-         }
-      ]
-   },
-   {
       "disease_id": 86,
-      "disease_name": "Anhidrosis",
+      "disease_name": "Anorgasmia in women",
       "causes": [
-         {
-            "cause_id": 154,
-            "cause_name": "Conditions you're born with"
-         },
-         {
-            "cause_id": 155,
-            "cause_name": "Inherited conditions that affect your metabolic system"
-         },
          {
             "cause_id": 156,
-            "cause_name": "Connective tissue diseases"
+            "cause_name": "Diseases"
          },
          {
             "cause_id": 157,
-            "cause_name": "Skin damage"
+            "cause_name": "Gynecological issues"
+         },
+         {
+            "cause_id": 23,
+            "cause_name": "Medications"
          },
          {
             "cause_id": 158,
-            "cause_name": "Conditions that cause nerve damage (neuropathy)"
+            "cause_name": "Alcohol and smoking"
          },
          {
             "cause_id": 159,
-            "cause_name": "Certain drugs"
+            "cause_name": "Aging"
          }
       ],
       "risk_factors": []
    },
    {
       "disease_id": 87,
-      "disease_name": "Ankylosing spondylitis",
+      "disease_name": "Anorexia nervosa",
       "causes": [
          {
-            "cause_id": 12,
-            "cause_name": "Your sex"
-         },
-         {
-            "cause_id": 87,
-            "cause_name": "Your age"
-         },
-         {
             "cause_id": 160,
-            "cause_name": "Your heredity"
+            "cause_name": "Biological"
+         },
+         {
+            "cause_id": 161,
+            "cause_name": "Psychological"
+         },
+         {
+            "cause_id": 162,
+            "cause_name": "Environmental"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 14,
-            "risk_name": "Your sex"
+            "risk_id": 53,
+            "risk_name": "Genetics"
          },
          {
-            "risk_id": 75,
-            "risk_name": "Your age"
+            "risk_id": 165,
+            "risk_name": "Dieting and starvation"
          },
          {
-            "risk_id": 169,
-            "risk_name": "Your heredity"
+            "risk_id": 166,
+            "risk_name": "Transitions"
          }
       ]
    },
    {
       "disease_id": 88,
-      "disease_name": "Angiosarcoma",
+      "disease_name": "Ankylosing spondylitis",
       "causes": [
          {
-            "cause_id": 161,
-            "cause_name": "Radiation therapy"
+            "cause_id": 19,
+            "cause_name": "Your sex"
          },
          {
-            "cause_id": 162,
-            "cause_name": "Swelling caused by lymph vessel damage (lymphedema)"
+            "cause_id": 55,
+            "cause_name": "Your age"
          },
          {
             "cause_id": 163,
-            "cause_name": "Chemicals"
+            "cause_name": "Your heredity"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 170,
-            "risk_name": "Radiation therapy"
+            "risk_id": 25,
+            "risk_name": "Your sex"
          },
          {
-            "risk_id": 171,
-            "risk_name": "Swelling caused by lymph vessel damage (lymphedema)"
+            "risk_id": 49,
+            "risk_name": "Your age"
          },
          {
-            "risk_id": 172,
-            "risk_name": "Chemicals"
+            "risk_id": 167,
+            "risk_name": "Your heredity"
          }
       ]
    },
    {
       "disease_id": 89,
+      "disease_name": "Tongue-tie (ankyloglossia)",
+      "causes": [
+         {
+            "cause_id": 164,
+            "cause_name": "Breast-feeding problems"
+         },
+         {
+            "cause_id": 165,
+            "cause_name": "Speech difficulties"
+         },
+         {
+            "cause_id": 166,
+            "cause_name": "Poor oral hygiene"
+         },
+         {
+            "cause_id": 167,
+            "cause_name": "Challenges with other oral activities"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 168,
+            "risk_name": "Breast-feeding problems"
+         },
+         {
+            "risk_id": 169,
+            "risk_name": "Speech difficulties"
+         },
+         {
+            "risk_id": 170,
+            "risk_name": "Poor oral hygiene"
+         },
+         {
+            "risk_id": 171,
+            "risk_name": "Challenges with other oral activities"
+         }
+      ]
+   },
+   {
+      "disease_id": 90,
+      "disease_name": "Sprained ankle",
+      "causes": [],
+      "risk_factors": [
+         {
+            "risk_id": 172,
+            "risk_name": "Sports participation"
+         },
+         {
+            "risk_id": 173,
+            "risk_name": "Uneven surfaces"
+         },
+         {
+            "risk_id": 174,
+            "risk_name": "Prior ankle injury"
+         },
+         {
+            "risk_id": 175,
+            "risk_name": "Poor physical condition"
+         },
+         {
+            "risk_id": 176,
+            "risk_name": "Improper shoes"
+         }
+      ]
+   },
+   {
+      "disease_id": 91,
+      "disease_name": "Broken ankle/broken foot",
+      "causes": [
+         {
+            "cause_id": 168,
+            "cause_name": "Car accidents"
+         },
+         {
+            "cause_id": 37,
+            "cause_name": "Falls"
+         },
+         {
+            "cause_id": 169,
+            "cause_name": "Impact from a heavy weight"
+         },
+         {
+            "cause_id": 170,
+            "cause_name": "Missteps"
+         },
+         {
+            "cause_id": 171,
+            "cause_name": "Overuse"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 177,
+            "risk_name": "Participate in high-impact sports"
+         },
+         {
+            "risk_id": 178,
+            "risk_name": "Use improper technique or sports equipment"
+         },
+         {
+            "risk_id": 179,
+            "risk_name": "Suddenly increase your activity level"
+         },
+         {
+            "risk_id": 180,
+            "risk_name": "Work in certain occupations"
+         },
+         {
+            "risk_id": 181,
+            "risk_name": "Keep your home cluttered or poorly lit"
+         },
+         {
+            "risk_id": 182,
+            "risk_name": "Have certain conditions"
+         }
+      ]
+   },
+   {
+      "disease_id": 92,
+      "disease_name": "Anhidrosis",
+      "causes": [
+         {
+            "cause_id": 172,
+            "cause_name": "Conditions you're born with"
+         },
+         {
+            "cause_id": 173,
+            "cause_name": "Inherited conditions that affect your metabolic system"
+         },
+         {
+            "cause_id": 174,
+            "cause_name": "Connective tissue diseases"
+         },
+         {
+            "cause_id": 175,
+            "cause_name": "Skin damage"
+         },
+         {
+            "cause_id": 176,
+            "cause_name": "Conditions that cause nerve damage (neuropathy)"
+         },
+         {
+            "cause_id": 177,
+            "cause_name": "Certain drugs"
+         }
+      ],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 93,
+      "disease_name": "Angiosarcoma",
+      "causes": [
+         {
+            "cause_id": 178,
+            "cause_name": "Radiation therapy"
+         },
+         {
+            "cause_id": 179,
+            "cause_name": "Swelling caused by lymph vessel damage (lymphedema)"
+         },
+         {
+            "cause_id": 180,
+            "cause_name": "Chemicals"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 183,
+            "risk_name": "Radiation therapy"
+         },
+         {
+            "risk_id": 184,
+            "risk_name": "Swelling caused by lymph vessel damage (lymphedema)"
+         },
+         {
+            "risk_id": 185,
+            "risk_name": "Chemicals"
+         }
+      ]
+   },
+   {
+      "disease_id": 94,
       "disease_name": "Castleman disease",
       "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 90,
+      "disease_id": 95,
       "disease_name": "Hives and angioedema",
       "causes": [
          {
-            "cause_id": 164,
+            "cause_id": 181,
             "cause_name": "Foods"
          },
          {
-            "cause_id": 16,
+            "cause_id": 23,
             "cause_name": "Medications"
          },
          {
-            "cause_id": 165,
+            "cause_id": 182,
             "cause_name": "Common allergens"
          },
          {
-            "cause_id": 38,
+            "cause_id": 72,
             "cause_name": "Environmental factors"
          },
          {
-            "cause_id": 166,
+            "cause_id": 183,
             "cause_name": "Underlying medical conditions"
          },
          {
-            "cause_id": 37,
+            "cause_id": 28,
             "cause_name": "Genetics"
          }
       ],
       "risk_factors": []
    },
    {
-      "disease_id": 91,
+      "disease_id": 96,
       "disease_name": "Angina",
       "causes": [
          {
-            "cause_id": 167,
+            "cause_id": 184,
             "cause_name": "Stable angina"
          },
          {
-            "cause_id": 168,
+            "cause_id": 185,
             "cause_name": "Prinzmetal's angina"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 173,
+            "risk_id": 1,
             "risk_name": "Tobacco use"
          },
          {
-            "risk_id": 96,
+            "risk_id": 60,
             "risk_name": "Diabetes"
          },
          {
-            "risk_id": 44,
+            "risk_id": 7,
             "risk_name": "High blood pressure"
          },
          {
-            "risk_id": 174,
+            "risk_id": 186,
             "risk_name": "High blood cholesterol or triglyceride levels"
          },
          {
-            "risk_id": 175,
+            "risk_id": 187,
             "risk_name": "Family history of heart disease"
          },
          {
-            "risk_id": 68,
+            "risk_id": 50,
             "risk_name": "Older age"
          },
          {
-            "risk_id": 176,
+            "risk_id": 188,
             "risk_name": "Lack of exercise"
          },
          {
-            "risk_id": 9,
+            "risk_id": 24,
             "risk_name": "Obesity"
          },
          {
-            "risk_id": 25,
+            "risk_id": 20,
             "risk_name": "Stress"
          }
       ]
    },
    {
-      "disease_id": 92,
-      "disease_name": "Vasculitis",
-      "causes": [],
-      "risk_factors": []
-   },
-   {
-      "disease_id": 93,
-      "disease_name": "Aneurysms",
-      "causes": [],
-      "risk_factors": []
-   },
-   {
-      "disease_id": 94,
+      "disease_id": 97,
       "disease_name": "Angelman syndrome",
       "causes": [
          {
-            "cause_id": 169,
+            "cause_id": 186,
             "cause_name": "Feeding difficulties"
          },
          {
-            "cause_id": 170,
+            "cause_id": 187,
             "cause_name": "Hyperactivity"
          },
          {
-            "cause_id": 171,
+            "cause_id": 188,
             "cause_name": "Sleep disorders"
          },
          {
-            "cause_id": 172,
+            "cause_id": 189,
             "cause_name": "Curving of the spine (scoliosis)"
          },
          {
-            "cause_id": 80,
+            "cause_id": 52,
             "cause_name": "Obesity"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 177,
+            "risk_id": 189,
             "risk_name": "Feeding difficulties"
          },
          {
-            "risk_id": 178,
+            "risk_id": 190,
             "risk_name": "Hyperactivity"
          },
          {
-            "risk_id": 179,
+            "risk_id": 191,
             "risk_name": "Sleep disorders"
          },
          {
-            "risk_id": 180,
+            "risk_id": 192,
             "risk_name": "Curving of the spine (scoliosis)"
          },
          {
-            "risk_id": 9,
+            "risk_id": 24,
             "risk_name": "Obesity"
          }
       ]
    },
    {
-      "disease_id": 95,
-      "disease_name": "Thoracic aortic aneurysm",
-      "causes": [
-         {
-            "cause_id": 173,
-            "cause_name": "Hardening of the arteries (atherosclerosis)"
-         },
-         {
-            "cause_id": 174,
-            "cause_name": "Other medical conditions"
-         },
-         {
-            "cause_id": 175,
-            "cause_name": "Problems with your heart's aortic valve"
-         },
-         {
-            "cause_id": 176,
-            "cause_name": "Untreated infection"
-         },
-         {
-            "cause_id": 177,
-            "cause_name": "Traumatic injury"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 1,
-            "risk_name": "Age"
-         },
-         {
-            "risk_id": 173,
-            "risk_name": "Tobacco use"
-         },
-         {
-            "risk_id": 44,
-            "risk_name": "High blood pressure"
-         },
-         {
-            "risk_id": 181,
-            "risk_name": "Buildup of plaques in your arteries (atherosclerosis)"
-         },
-         {
-            "risk_id": 20,
-            "risk_name": "Family history"
-         },
-         {
-            "risk_id": 182,
-            "risk_name": "Marfan syndrome and related disorders"
-         },
-         {
-            "risk_id": 137,
-            "risk_name": "Bicuspid aortic valve"
-         }
-      ]
-   },
-   {
-      "disease_id": 96,
-      "disease_name": "Vitamin deficiency anemia",
-      "causes": [
-         {
-            "cause_id": 178,
-            "cause_name": "Vitamin C deficiency anemia"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 183,
-            "risk_name": "Your diet contains little to no natural vitamin food sources"
-         },
-         {
-            "risk_id": 184,
-            "risk_name": "You abuse alcohol"
-         },
-         {
-            "risk_id": 185,
-            "risk_name": "You take certain prescription medication"
-         }
-      ]
-   },
-   {
-      "disease_id": 97,
-      "disease_name": "Anorexia nervosa",
-      "causes": [
-         {
-            "cause_id": 179,
-            "cause_name": "Biological"
-         },
-         {
-            "cause_id": 180,
-            "cause_name": "Psychological"
-         },
-         {
-            "cause_id": 181,
-            "cause_name": "Environmental"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 71,
-            "risk_name": "Genetics"
-         },
-         {
-            "risk_id": 186,
-            "risk_name": "Dieting and starvation"
-         },
-         {
-            "risk_id": 187,
-            "risk_name": "Transitions"
-         }
-      ]
-   },
-   {
       "disease_id": 98,
-      "disease_name": "Brain aneurysm",
+      "disease_name": "Aneurysms",
       "causes": [],
       "risk_factors": []
    },
    {
       "disease_id": 99,
-      "disease_name": "Sickle cell anemia",
-      "causes": [
-         {
-            "cause_id": 55,
-            "cause_name": "Stroke"
-         },
-         {
-            "cause_id": 182,
-            "cause_name": "Acute chest syndrome"
-         },
-         {
-            "cause_id": 183,
-            "cause_name": "Pulmonary hypertension"
-         },
-         {
-            "cause_id": 184,
-            "cause_name": "Organ damage"
-         },
-         {
-            "cause_id": 185,
-            "cause_name": "Blindness"
-         },
-         {
-            "cause_id": 186,
-            "cause_name": "Leg ulcers"
-         },
-         {
-            "cause_id": 187,
-            "cause_name": "Gallstones"
-         },
-         {
-            "cause_id": 188,
-            "cause_name": "Priapism"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 188,
-            "risk_name": "Stroke"
-         },
-         {
-            "risk_id": 189,
-            "risk_name": "Acute chest syndrome"
-         },
-         {
-            "risk_id": 190,
-            "risk_name": "Pulmonary hypertension"
-         },
-         {
-            "risk_id": 191,
-            "risk_name": "Organ damage"
-         },
-         {
-            "risk_id": 192,
-            "risk_name": "Blindness"
-         },
-         {
-            "risk_id": 193,
-            "risk_name": "Leg ulcers"
-         },
-         {
-            "risk_id": 194,
-            "risk_name": "Gallstones"
-         },
-         {
-            "risk_id": 195,
-            "risk_name": "Priapism"
-         }
-      ]
+      "disease_name": "Brain aneurysm",
+      "causes": [],
+      "risk_factors": []
    },
    {
       "disease_id": 100,
-      "disease_name": "Iron deficiency anemia",
+      "disease_name": "Thoracic aortic aneurysm",
       "causes": [
          {
-            "cause_id": 189,
-            "cause_name": "Blood loss"
+            "cause_id": 1,
+            "cause_name": "Hardening of the arteries (atherosclerosis)"
          },
          {
             "cause_id": 190,
-            "cause_name": "A lack of iron in your diet"
+            "cause_name": "Other medical conditions"
          },
          {
             "cause_id": 191,
-            "cause_name": "An inability to absorb iron"
+            "cause_name": "Problems with your heart's aortic valve"
          },
          {
-            "cause_id": 4,
-            "cause_name": "Pregnancy"
+            "cause_id": 192,
+            "cause_name": "Untreated infection"
+         },
+         {
+            "cause_id": 193,
+            "cause_name": "Traumatic injury"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 196,
-            "risk_name": "Women"
+            "risk_id": 0,
+            "risk_name": "Age"
          },
          {
-            "risk_id": 197,
-            "risk_name": "Infants and children"
+            "risk_id": 1,
+            "risk_name": "Tobacco use"
          },
          {
-            "risk_id": 198,
-            "risk_name": "Vegetarians"
+            "risk_id": 7,
+            "risk_name": "High blood pressure"
          },
          {
-            "risk_id": 199,
-            "risk_name": "Frequent blood donors"
+            "risk_id": 193,
+            "risk_name": "Buildup of plaques in your arteries (atherosclerosis)"
+         },
+         {
+            "risk_id": 4,
+            "risk_name": "Family history"
+         },
+         {
+            "risk_id": 194,
+            "risk_name": "Marfan syndrome and related disorders"
+         },
+         {
+            "risk_id": 148,
+            "risk_name": "Bicuspid aortic valve"
          }
       ]
    },
    {
       "disease_id": 101,
-      "disease_name": "Thalassemia",
+      "disease_name": "Vitamin deficiency anemia",
       "causes": [
          {
-            "cause_id": 192,
-            "cause_name": "1 mutated gene"
-         },
-         {
-            "cause_id": 193,
-            "cause_name": "2 mutated genes"
-         },
-         {
             "cause_id": 194,
-            "cause_name": "3 mutated genes"
-         },
-         {
-            "cause_id": 195,
-            "cause_name": "4 mutated genes"
+            "cause_name": "Vitamin C deficiency anemia"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 200,
-            "risk_name": "Family history of thalassemia"
+            "risk_id": 195,
+            "risk_name": "Your diet contains little to no natural vitamin food sources"
          },
          {
-            "risk_id": 201,
-            "risk_name": "Certain ancestry"
+            "risk_id": 196,
+            "risk_name": "You abuse alcohol"
+         },
+         {
+            "risk_id": 197,
+            "risk_name": "You take certain prescription medication"
          }
       ]
    },
    {
       "disease_id": 102,
-      "disease_name": "Anemia",
-      "causes": [],
+      "disease_name": "Sickle cell anemia",
+      "causes": [
+         {
+            "cause_id": 85,
+            "cause_name": "Stroke"
+         },
+         {
+            "cause_id": 195,
+            "cause_name": "Acute chest syndrome"
+         },
+         {
+            "cause_id": 196,
+            "cause_name": "Pulmonary hypertension"
+         },
+         {
+            "cause_id": 197,
+            "cause_name": "Organ damage"
+         },
+         {
+            "cause_id": 198,
+            "cause_name": "Blindness"
+         },
+         {
+            "cause_id": 199,
+            "cause_name": "Leg ulcers"
+         },
+         {
+            "cause_id": 200,
+            "cause_name": "Gallstones"
+         },
+         {
+            "cause_id": 201,
+            "cause_name": "Priapism"
+         }
+      ],
       "risk_factors": [
          {
+            "risk_id": 105,
+            "risk_name": "Stroke"
+         },
+         {
+            "risk_id": 198,
+            "risk_name": "Acute chest syndrome"
+         },
+         {
+            "risk_id": 199,
+            "risk_name": "Pulmonary hypertension"
+         },
+         {
+            "risk_id": 200,
+            "risk_name": "Organ damage"
+         },
+         {
+            "risk_id": 201,
+            "risk_name": "Blindness"
+         },
+         {
             "risk_id": 202,
-            "risk_name": "A diet lacking in certain vitamins"
+            "risk_name": "Leg ulcers"
          },
          {
             "risk_id": 203,
-            "risk_name": "Intestinal disorders"
+            "risk_name": "Gallstones"
          },
          {
             "risk_id": 204,
-            "risk_name": "Menstruation"
-         },
-         {
-            "risk_id": 4,
-            "risk_name": "Pregnancy"
-         },
-         {
-            "risk_id": 20,
-            "risk_name": "Family history"
-         },
-         {
-            "risk_id": 205,
-            "risk_name": "Other factors"
-         },
-         {
-            "risk_id": 1,
-            "risk_name": "Age"
+            "risk_name": "Priapism"
          }
       ]
    },
    {
       "disease_id": 103,
+      "disease_name": "Iron deficiency anemia",
+      "causes": [
+         {
+            "cause_id": 202,
+            "cause_name": "Blood loss"
+         },
+         {
+            "cause_id": 203,
+            "cause_name": "A lack of iron in your diet"
+         },
+         {
+            "cause_id": 204,
+            "cause_name": "An inability to absorb iron"
+         },
+         {
+            "cause_id": 11,
+            "cause_name": "Pregnancy"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 205,
+            "risk_name": "Women"
+         },
+         {
+            "risk_id": 206,
+            "risk_name": "Infants and children"
+         },
+         {
+            "risk_id": 207,
+            "risk_name": "Vegetarians"
+         },
+         {
+            "risk_id": 208,
+            "risk_name": "Frequent blood donors"
+         }
+      ]
+   },
+   {
+      "disease_id": 104,
+      "disease_name": "Thalassemia",
+      "causes": [
+         {
+            "cause_id": 205,
+            "cause_name": "1 mutated gene"
+         },
+         {
+            "cause_id": 206,
+            "cause_name": "2 mutated genes"
+         },
+         {
+            "cause_id": 207,
+            "cause_name": "3 mutated genes"
+         },
+         {
+            "cause_id": 208,
+            "cause_name": "4 mutated genes"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 209,
+            "risk_name": "Family history of thalassemia"
+         },
+         {
+            "risk_id": 210,
+            "risk_name": "Certain ancestry"
+         }
+      ]
+   },
+   {
+      "disease_id": 105,
       "disease_name": "Aplastic anemia",
       "causes": [
          {
-            "cause_id": 196,
+            "cause_id": 209,
             "cause_name": "Radiation and chemotherapy treatments"
          },
          {
-            "cause_id": 197,
+            "cause_id": 210,
             "cause_name": "Exposure to toxic chemicals"
          },
          {
-            "cause_id": 198,
+            "cause_id": 211,
             "cause_name": "Use of certain drugs"
          },
          {
-            "cause_id": 199,
+            "cause_id": 212,
             "cause_name": "Autoimmune disorders"
          },
          {
-            "cause_id": 200,
+            "cause_id": 213,
             "cause_name": "A viral infection"
          },
          {
-            "cause_id": 4,
+            "cause_id": 11,
             "cause_name": "Pregnancy"
          },
          {
-            "cause_id": 201,
+            "cause_id": 214,
             "cause_name": "Unknown factors"
          }
       ],
       "risk_factors": []
    },
    {
-      "disease_id": 104,
+      "disease_id": 106,
+      "disease_name": "Anemia",
+      "causes": [],
+      "risk_factors": [
+         {
+            "risk_id": 211,
+            "risk_name": "A diet lacking in certain vitamins"
+         },
+         {
+            "risk_id": 212,
+            "risk_name": "Intestinal disorders"
+         },
+         {
+            "risk_id": 213,
+            "risk_name": "Menstruation"
+         },
+         {
+            "risk_id": 11,
+            "risk_name": "Pregnancy"
+         },
+         {
+            "risk_id": 4,
+            "risk_name": "Family history"
+         },
+         {
+            "risk_id": 214,
+            "risk_name": "Other factors"
+         },
+         {
+            "risk_id": 0,
+            "risk_name": "Age"
+         }
+      ]
+   },
+   {
+      "disease_id": 107,
       "disease_name": "Ehrlichiosis",
       "causes": [
          {
-            "cause_id": 202,
+            "cause_id": 215,
             "cause_name": "Being outdoors in warm weather"
          },
          {
-            "cause_id": 203,
+            "cause_id": 216,
             "cause_name": "Living in or visiting an area with a high tick population"
          },
          {
-            "cause_id": 128,
+            "cause_id": 140,
             "cause_name": "Being male"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 206,
+            "risk_id": 215,
             "risk_name": "Being outdoors in warm weather"
          },
          {
-            "risk_id": 207,
+            "risk_id": 216,
             "risk_name": "Living in or visiting an area with a high tick population"
          },
          {
-            "risk_id": 126,
+            "risk_id": 2,
             "risk_name": "Being male"
          }
       ]
    },
    {
-      "disease_id": 105,
+      "disease_id": 108,
       "disease_name": "Anaphylaxis",
       "causes": [],
       "risk_factors": [
          {
-            "risk_id": 208,
+            "risk_id": 217,
             "risk_name": "Previous anaphylaxis"
          },
          {
-            "risk_id": 209,
+            "risk_id": 218,
             "risk_name": "Allergies or asthma"
          },
          {
-            "risk_id": 210,
+            "risk_id": 219,
             "risk_name": "Certain other conditions"
          }
       ]
    },
    {
-      "disease_id": 106,
-      "disease_name": "Anal fistula",
-      "causes": [],
-      "risk_factors": []
-   },
-   {
-      "disease_id": 107,
-      "disease_name": "Anal fissure",
-      "causes": [],
-      "risk_factors": [
-         {
-            "risk_id": 211,
-            "risk_name": "Infancy"
-         },
-         {
-            "risk_id": 152,
-            "risk_name": "Aging"
-         },
-         {
-            "risk_id": 212,
-            "risk_name": "Constipation"
-         },
-         {
-            "risk_id": 151,
-            "risk_name": "Childbirth"
-         },
-         {
-            "risk_id": 213,
-            "risk_name": "Crohn's disease"
-         },
-         {
-            "risk_id": 214,
-            "risk_name": "Anal intercourse"
-         }
-      ]
-   },
-   {
-      "disease_id": 108,
+      "disease_id": 109,
       "disease_name": "Anal itching",
       "causes": [
          {
-            "cause_id": 204,
+            "cause_id": 217,
             "cause_name": "Personal care habits"
          },
          {
-            "cause_id": 58,
+            "cause_id": 88,
             "cause_name": "Infections"
          },
          {
-            "cause_id": 205,
+            "cause_id": 218,
             "cause_name": "Skin conditions"
          },
          {
-            "cause_id": 174,
+            "cause_id": 190,
             "cause_name": "Other medical conditions"
          }
       ],
       "risk_factors": []
    },
    {
-      "disease_id": 109,
-      "disease_name": "Anal cancer",
-      "causes": [
-         {
-            "cause_id": 81,
-            "cause_name": "Older age"
-         },
-         {
-            "cause_id": 206,
-            "cause_name": "Many sexual partners"
-         },
-         {
-            "cause_id": 207,
-            "cause_name": "Anal sex"
-         },
-         {
-            "cause_id": 78,
-            "cause_name": "Smoking"
-         },
-         {
-            "cause_id": 208,
-            "cause_name": "History of cancer"
-         },
-         {
-            "cause_id": 209,
-            "cause_name": "Human papillomavirus (HPV)"
-         },
-         {
-            "cause_id": 210,
-            "cause_name": "Drugs or conditions that suppress your immune system"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 68,
-            "risk_name": "Older age"
-         },
-         {
-            "risk_id": 215,
-            "risk_name": "Many sexual partners"
-         },
-         {
-            "risk_id": 216,
-            "risk_name": "Anal sex"
-         },
-         {
-            "risk_id": 40,
-            "risk_name": "Smoking"
-         },
-         {
-            "risk_id": 217,
-            "risk_name": "History of cancer"
-         },
-         {
-            "risk_id": 218,
-            "risk_name": "Human papillomavirus (HPV)"
-         },
-         {
-            "risk_id": 219,
-            "risk_name": "Drugs or conditions that suppress your immune system"
-         }
-      ]
-   },
-   {
       "disease_id": 110,
-      "disease_name": "Amyloidosis",
-      "causes": [
-         {
-            "cause_id": 211,
-            "cause_name": "AL amyloidosis (immunoglobulin light chain amyloidosis"
-         },
-         {
-            "cause_id": 212,
-            "cause_name": "AA amyloidosi"
-         },
-         {
-            "cause_id": 213,
-            "cause_name": "Hereditary amyloidosis (familial amyloidosis"
-         },
-         {
-            "cause_id": 214,
-            "cause_name": "Dialysis-related amyloidosi"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 1,
-            "risk_name": "Age"
-         },
-         {
-            "risk_id": 0,
-            "risk_name": "Sex"
-         },
-         {
-            "risk_id": 31,
-            "risk_name": "Other diseases"
-         },
-         {
-            "risk_id": 20,
-            "risk_name": "Family history"
-         },
-         {
-            "risk_id": 220,
-            "risk_name": "Kidney dialysis"
-         },
-         {
-            "risk_id": 19,
-            "risk_name": "Race"
-         }
-      ]
+      "disease_name": "Anal fistula",
+      "causes": [],
+      "risk_factors": []
    },
    {
       "disease_id": 111,
-      "disease_name": "Amniotic fluid embolism",
-      "causes": [
-         {
-            "cause_id": 215,
-            "cause_name": "Advanced maternal age"
-         },
-         {
-            "cause_id": 216,
-            "cause_name": "Placenta problems"
-         },
-         {
-            "cause_id": 217,
-            "cause_name": "Preeclampsia"
-         },
-         {
-            "cause_id": 218,
-            "cause_name": "Medically induced labor"
-         },
-         {
-            "cause_id": 219,
-            "cause_name": "Operative delivery"
-         },
-         {
-            "cause_id": 220,
-            "cause_name": "Polyhydramnios"
-         }
-      ],
+      "disease_name": "Anal fissure",
+      "causes": [],
       "risk_factors": [
          {
+            "risk_id": 220,
+            "risk_name": "Infancy"
+         },
+         {
+            "risk_id": 163,
+            "risk_name": "Aging"
+         },
+         {
             "risk_id": 221,
-            "risk_name": "Advanced maternal age"
+            "risk_name": "Constipation"
+         },
+         {
+            "risk_id": 162,
+            "risk_name": "Childbirth"
          },
          {
             "risk_id": 222,
-            "risk_name": "Placenta problems"
+            "risk_name": "Crohn's disease"
          },
          {
             "risk_id": 223,
-            "risk_name": "Preeclampsia"
-         },
-         {
-            "risk_id": 224,
-            "risk_name": "Medically induced labor"
-         },
-         {
-            "risk_id": 225,
-            "risk_name": "Operative delivery"
-         },
-         {
-            "risk_id": 226,
-            "risk_name": "Polyhydramnios"
+            "risk_name": "Anal intercourse"
          }
       ]
    },
    {
       "disease_id": 112,
-      "disease_name": "Transient global amnesia",
-      "causes": [],
+      "disease_name": "Anal cancer",
+      "causes": [
+         {
+            "cause_id": 56,
+            "cause_name": "Older age"
+         },
+         {
+            "cause_id": 219,
+            "cause_name": "Many sexual partners"
+         },
+         {
+            "cause_id": 220,
+            "cause_name": "Anal sex"
+         },
+         {
+            "cause_id": 50,
+            "cause_name": "Smoking"
+         },
+         {
+            "cause_id": 221,
+            "cause_name": "History of cancer"
+         },
+         {
+            "cause_id": 222,
+            "cause_name": "Human papillomavirus (HPV)"
+         },
+         {
+            "cause_id": 223,
+            "cause_name": "Drugs or conditions that suppress your immune system"
+         }
+      ],
       "risk_factors": [
          {
-            "risk_id": 1,
-            "risk_name": "Age"
+            "risk_id": 50,
+            "risk_name": "Older age"
+         },
+         {
+            "risk_id": 224,
+            "risk_name": "Many sexual partners"
+         },
+         {
+            "risk_id": 225,
+            "risk_name": "Anal sex"
+         },
+         {
+            "risk_id": 44,
+            "risk_name": "Smoking"
+         },
+         {
+            "risk_id": 226,
+            "risk_name": "History of cancer"
          },
          {
             "risk_id": 227,
-            "risk_name": "History of migraines"
+            "risk_name": "Human papillomavirus (HPV)"
+         },
+         {
+            "risk_id": 228,
+            "risk_name": "Drugs or conditions that suppress your immune system"
          }
       ]
    },
    {
       "disease_id": 113,
+      "disease_name": "Amyloidosis",
+      "causes": [
+         {
+            "cause_id": 224,
+            "cause_name": "AL amyloidosis (immunoglobulin light chain amyloidosis"
+         },
+         {
+            "cause_id": 225,
+            "cause_name": "AA amyloidosi"
+         },
+         {
+            "cause_id": 226,
+            "cause_name": "Hereditary amyloidosis (familial amyloidosis"
+         },
+         {
+            "cause_id": 227,
+            "cause_name": "Dialysis-related amyloidosi"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 0,
+            "risk_name": "Age"
+         },
+         {
+            "risk_id": 8,
+            "risk_name": "Sex"
+         },
+         {
+            "risk_id": 61,
+            "risk_name": "Other diseases"
+         },
+         {
+            "risk_id": 4,
+            "risk_name": "Family history"
+         },
+         {
+            "risk_id": 229,
+            "risk_name": "Kidney dialysis"
+         },
+         {
+            "risk_id": 30,
+            "risk_name": "Race"
+         }
+      ]
+   },
+   {
+      "disease_id": 114,
       "disease_name": "Ampullary cancer",
       "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 114,
-      "disease_name": "Dissociative disorders",
-      "causes": [],
-      "risk_factors": []
-   },
-   {
       "disease_id": 115,
-      "disease_name": "Amnesia",
-      "causes": [],
-      "risk_factors": []
+      "disease_name": "Amniotic fluid embolism",
+      "causes": [
+         {
+            "cause_id": 228,
+            "cause_name": "Advanced maternal age"
+         },
+         {
+            "cause_id": 229,
+            "cause_name": "Placenta problems"
+         },
+         {
+            "cause_id": 230,
+            "cause_name": "Preeclampsia"
+         },
+         {
+            "cause_id": 231,
+            "cause_name": "Medically induced labor"
+         },
+         {
+            "cause_id": 232,
+            "cause_name": "Operative delivery"
+         },
+         {
+            "cause_id": 233,
+            "cause_name": "Polyhydramnios"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 230,
+            "risk_name": "Advanced maternal age"
+         },
+         {
+            "risk_id": 231,
+            "risk_name": "Placenta problems"
+         },
+         {
+            "risk_id": 232,
+            "risk_name": "Preeclampsia"
+         },
+         {
+            "risk_id": 233,
+            "risk_name": "Medically induced labor"
+         },
+         {
+            "risk_id": 234,
+            "risk_name": "Operative delivery"
+         },
+         {
+            "risk_id": 235,
+            "risk_name": "Polyhydramnios"
+         }
+      ]
    },
    {
       "disease_id": 116,
-      "disease_name": "Amenorrhea",
+      "disease_name": "Transient global amnesia",
       "causes": [],
       "risk_factors": [
          {
-            "risk_id": 20,
-            "risk_name": "Family history"
+            "risk_id": 0,
+            "risk_name": "Age"
          },
          {
-            "risk_id": 228,
-            "risk_name": "Eating disorders"
-         },
-         {
-            "risk_id": 229,
-            "risk_name": "Athletic training"
+            "risk_id": 236,
+            "risk_name": "History of migraines"
          }
       ]
    },
    {
       "disease_id": 117,
-      "disease_name": "Ameloblastoma",
+      "disease_name": "Dissociative disorders",
       "causes": [],
       "risk_factors": []
    },
    {
       "disease_id": 118,
-      "disease_name": "Chagas disease",
+      "disease_name": "Amnesia",
       "causes": [],
       "risk_factors": []
    },
    {
       "disease_id": 119,
-      "disease_name": "Ambiguous genitalia",
+      "disease_name": "Chagas disease",
       "causes": [],
       "risk_factors": []
    },
    {
       "disease_id": 120,
+      "disease_name": "Amenorrhea",
+      "causes": [],
+      "risk_factors": [
+         {
+            "risk_id": 4,
+            "risk_name": "Family history"
+         },
+         {
+            "risk_id": 237,
+            "risk_name": "Eating disorders"
+         },
+         {
+            "risk_id": 238,
+            "risk_name": "Athletic training"
+         }
+      ]
+   },
+   {
+      "disease_id": 121,
+      "disease_name": "Ameloblastoma",
+      "causes": [],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 122,
       "disease_name": "Lazy eye (amblyopia)",
       "causes": [
          {
-            "cause_id": 221,
+            "cause_id": 234,
             "cause_name": "Muscle imbalance (strabismus)"
          },
          {
-            "cause_id": 222,
+            "cause_id": 235,
             "cause_name": "Difference in sharpness of vision between the eyes (refractive anisometropia)"
          },
          {
-            "cause_id": 223,
+            "cause_id": 236,
             "cause_name": "Deprivation"
          }
       ],
       "risk_factors": []
    },
    {
-      "disease_id": 121,
+      "disease_id": 123,
+      "disease_name": "Ambiguous genitalia",
+      "causes": [],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 124,
       "disease_name": "Alzheimer's disease",
       "causes": [
          {
-            "cause_id": 224,
+            "cause_id": 237,
             "cause_name": "Plaques"
          }
       ],
       "risk_factors": []
    },
    {
-      "disease_id": 122,
+      "disease_id": 125,
       "disease_name": "Dry socket",
       "causes": [],
       "risk_factors": [
          {
-            "risk_id": 230,
+            "risk_id": 239,
             "risk_name": "Smoking and tobacco use"
          },
          {
-            "risk_id": 231,
+            "risk_id": 240,
             "risk_name": "Oral contraceptives"
          },
          {
-            "risk_id": 232,
+            "risk_id": 241,
             "risk_name": "Improper at-home care"
          },
          {
-            "risk_id": 233,
+            "risk_id": 242,
             "risk_name": "Having dry socket in the past"
          },
          {
-            "risk_id": 234,
+            "risk_id": 243,
             "risk_name": "Tooth or gum infection"
          }
       ]
    },
    {
-      "disease_id": 123,
-      "disease_name": "Amyotrophic lateral sclerosis",
+      "disease_id": 126,
+      "disease_name": "Amyotrophic lateral sclerosis (ALS)",
       "causes": [
          {
-            "cause_id": 225,
+            "cause_id": 238,
             "cause_name": "Gene mutation"
          },
          {
-            "cause_id": 226,
+            "cause_id": 239,
             "cause_name": "Chemical imbalance"
          },
          {
-            "cause_id": 227,
+            "cause_id": 240,
             "cause_name": "Disorganized immune response"
          },
          {
-            "cause_id": 228,
+            "cause_id": 241,
             "cause_name": "Protein mishandling"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 34,
+            "risk_id": 64,
             "risk_name": "Heredity"
          },
          {
-            "risk_id": 1,
+            "risk_id": 0,
             "risk_name": "Age"
          },
          {
-            "risk_id": 0,
+            "risk_id": 8,
             "risk_name": "Sex"
          },
          {
-            "risk_id": 71,
+            "risk_id": 53,
             "risk_name": "Genetics"
          }
       ]
    },
    {
-      "disease_id": 124,
-      "disease_name": "Hair loss",
-      "causes": [
-         {
-            "cause_id": 229,
-            "cause_name": "Family history (heredity)"
-         },
-         {
-            "cause_id": 230,
-            "cause_name": "Hormonal changes and medical conditions"
-         },
-         {
-            "cause_id": 231,
-            "cause_name": "Medications and supplements"
-         },
-         {
-            "cause_id": 232,
-            "cause_name": "Radiation therapy to the head"
-         },
-         {
-            "cause_id": 233,
-            "cause_name": "A very stressful event"
-         },
-         {
-            "cause_id": 234,
-            "cause_name": "Certain hairstyles and treatments"
-         }
-      ],
+      "disease_id": 127,
+      "disease_name": "Alpha-gal syndrome",
+      "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 125,
+      "disease_id": 128,
       "disease_name": "Wheat allergy",
       "causes": [],
       "risk_factors": [
          {
-            "risk_id": 20,
+            "risk_id": 4,
             "risk_name": "Family history"
          },
          {
-            "risk_id": 1,
+            "risk_id": 0,
             "risk_name": "Age"
          }
       ]
    },
    {
-      "disease_id": 126,
+      "disease_id": 129,
       "disease_name": "Soy allergy",
       "causes": [
          {
-            "cause_id": 77,
+            "cause_id": 49,
             "cause_name": "Family history"
          },
          {
-            "cause_id": 1,
+            "cause_id": 8,
             "cause_name": "Age"
          },
          {
-            "cause_id": 235,
+            "cause_id": 242,
             "cause_name": "Other allergies"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 20,
+            "risk_id": 4,
             "risk_name": "Family history"
          },
          {
-            "risk_id": 1,
+            "risk_id": 0,
             "risk_name": "Age"
          },
          {
-            "risk_id": 235,
+            "risk_id": 244,
             "risk_name": "Other allergies"
          }
       ]
    },
    {
-      "disease_id": 127,
+      "disease_id": 130,
       "disease_name": "Shellfish allergy",
       "causes": [
          {
-            "cause_id": 236,
+            "cause_id": 243,
             "cause_name": "Crustacean"
          },
          {
-            "cause_id": 237,
+            "cause_id": 244,
             "cause_name": "Mollusk"
          }
       ],
       "risk_factors": []
    },
    {
-      "disease_id": 128,
+      "disease_id": 131,
       "disease_name": "Pet allergy",
       "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 129,
+      "disease_id": 132,
       "disease_name": "Penicillin allergy",
       "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 130,
+      "disease_id": 133,
       "disease_name": "Peanut allergy",
       "causes": [
          {
-            "cause_id": 238,
+            "cause_id": 245,
             "cause_name": "Direct contact"
          },
          {
-            "cause_id": 239,
+            "cause_id": 246,
             "cause_name": "Cross-contact"
          },
          {
-            "cause_id": 240,
+            "cause_id": 247,
             "cause_name": "Inhalation"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 1,
+            "risk_id": 0,
             "risk_name": "Age"
-         },
-         {
-            "risk_id": 236,
-            "risk_name": "Past allergy to peanuts"
-         },
-         {
-            "risk_id": 235,
-            "risk_name": "Other allergies"
-         },
-         {
-            "risk_id": 237,
-            "risk_name": "Family members with allergies"
-         },
-         {
-            "risk_id": 238,
-            "risk_name": "Atopic dermatitis"
-         }
-      ]
-   },
-   {
-      "disease_id": 131,
-      "disease_name": "Nickel allergy",
-      "causes": [],
-      "risk_factors": [
-         {
-            "risk_id": 239,
-            "risk_name": "Having ear or body piercings"
-         },
-         {
-            "risk_id": 32,
-            "risk_name": "Being female"
-         },
-         {
-            "risk_id": 240,
-            "risk_name": "Having a family history of nickel allergy"
-         },
-         {
-            "risk_id": 241,
-            "risk_name": "Being allergic to other metals"
-         }
-      ]
-   },
-   {
-      "disease_id": 132,
-      "disease_name": "Mold allergy",
-      "causes": [
-         {
-            "cause_id": 241,
-            "cause_name": "Having a family history of allergies"
-         },
-         {
-            "cause_id": 242,
-            "cause_name": "Working in an occupation that exposes you to mold"
-         },
-         {
-            "cause_id": 243,
-            "cause_name": "Working or living in a building that's been exposed to excess moisture"
-         },
-         {
-            "cause_id": 244,
-            "cause_name": "Living in a house with poor ventilation"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 242,
-            "risk_name": "Having a family history of allergies"
-         },
-         {
-            "risk_id": 243,
-            "risk_name": "Working in an occupation that exposes you to mold"
-         },
-         {
-            "risk_id": 244,
-            "risk_name": "Working or living in a building that's been exposed to excess moisture"
          },
          {
             "risk_id": 245,
-            "risk_name": "Living in a house with poor ventilation"
-         }
-      ]
-   },
-   {
-      "disease_id": 133,
-      "disease_name": "Milk allergy",
-      "causes": [
-         {
-            "cause_id": 245,
-            "cause_name": "Casein"
+            "risk_name": "Past allergy to peanuts"
          },
          {
-            "cause_id": 246,
-            "cause_name": "Whey"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 235,
+            "risk_id": 244,
             "risk_name": "Other allergies"
          },
          {
-            "risk_id": 238,
+            "risk_id": 246,
+            "risk_name": "Family members with allergies"
+         },
+         {
+            "risk_id": 247,
             "risk_name": "Atopic dermatitis"
-         },
-         {
-            "risk_id": 20,
-            "risk_name": "Family history"
-         },
-         {
-            "risk_id": 1,
-            "risk_name": "Age"
          }
       ]
    },
    {
       "disease_id": 134,
-      "disease_name": "Food allergy",
+      "disease_name": "Nickel allergy",
       "causes": [],
       "risk_factors": [
          {
-            "risk_id": 20,
-            "risk_name": "Family history"
+            "risk_id": 248,
+            "risk_name": "Having ear or body piercings"
          },
          {
-            "risk_id": 235,
-            "risk_name": "Other allergies"
+            "risk_id": 62,
+            "risk_name": "Being female"
          },
          {
-            "risk_id": 116,
-            "risk_name": "Asthma"
+            "risk_id": 249,
+            "risk_name": "Having a family history of nickel allergy"
+         },
+         {
+            "risk_id": 250,
+            "risk_name": "Being allergic to other metals"
          }
       ]
    },
    {
       "disease_id": 135,
-      "disease_name": "Egg allergy",
-      "causes": [
-         {
-            "cause_id": 247,
-            "cause_name": "Atopic dermatitis"
-         },
-         {
-            "cause_id": 77,
-            "cause_name": "Family history"
-         },
-         {
-            "cause_id": 1,
-            "cause_name": "Age"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 238,
-            "risk_name": "Atopic dermatitis"
-         },
-         {
-            "risk_id": 20,
-            "risk_name": "Family history"
-         },
-         {
-            "risk_id": 1,
-            "risk_name": "Age"
-         }
-      ]
-   },
-   {
-      "disease_id": 136,
-      "disease_name": "Latex allergy",
-      "causes": [
-         {
-            "cause_id": 238,
-            "cause_name": "Direct contact"
-         },
-         {
-            "cause_id": 240,
-            "cause_name": "Inhalation"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 246,
-            "risk_name": "People with spina bifida"
-         },
-         {
-            "risk_id": 247,
-            "risk_name": "People who undergo multiple surgeries or medical procedures"
-         },
-         {
-            "risk_id": 248,
-            "risk_name": "Health care workers"
-         },
-         {
-            "risk_id": 249,
-            "risk_name": "Rubber industry workers"
-         },
-         {
-            "risk_id": 250,
-            "risk_name": "People with a personal or family history of allergies"
-         }
-      ]
-   },
-   {
-      "disease_id": 137,
-      "disease_name": "Dust mite allergy",
+      "disease_name": "Mold allergy",
       "causes": [
          {
             "cause_id": 248,
-            "cause_name": "\nHaving a family history of allergies"
+            "cause_name": "Having a family history of allergies"
          },
          {
             "cause_id": 249,
-            "cause_name": "\nExposure to dust mites"
+            "cause_name": "Working in an occupation that exposes you to mold"
          },
          {
             "cause_id": 250,
-            "cause_name": "\nBeing a child or a young adult"
+            "cause_name": "Working or living in a building that's been exposed to excess moisture"
+         },
+         {
+            "cause_id": 251,
+            "cause_name": "Living in a house with poor ventilation"
          }
       ],
       "risk_factors": [
          {
             "risk_id": 251,
-            "risk_name": "\nHaving a family history of allergies"
+            "risk_name": "Having a family history of allergies"
          },
          {
             "risk_id": 252,
-            "risk_name": "\nExposure to dust mites"
+            "risk_name": "Working in an occupation that exposes you to mold"
          },
          {
             "risk_id": 253,
-            "risk_name": "\nBeing a child or a young adult"
+            "risk_name": "Working or living in a building that's been exposed to excess moisture"
+         },
+         {
+            "risk_id": 254,
+            "risk_name": "Living in a house with poor ventilation"
+         }
+      ]
+   },
+   {
+      "disease_id": 136,
+      "disease_name": "Milk allergy",
+      "causes": [
+         {
+            "cause_id": 252,
+            "cause_name": "Casein"
+         },
+         {
+            "cause_id": 253,
+            "cause_name": "Whey"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 244,
+            "risk_name": "Other allergies"
+         },
+         {
+            "risk_id": 247,
+            "risk_name": "Atopic dermatitis"
+         },
+         {
+            "risk_id": 4,
+            "risk_name": "Family history"
+         },
+         {
+            "risk_id": 0,
+            "risk_name": "Age"
+         }
+      ]
+   },
+   {
+      "disease_id": 137,
+      "disease_name": "Latex allergy",
+      "causes": [
+         {
+            "cause_id": 245,
+            "cause_name": "Direct contact"
+         },
+         {
+            "cause_id": 247,
+            "cause_name": "Inhalation"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 255,
+            "risk_name": "People with spina bifida"
+         },
+         {
+            "risk_id": 256,
+            "risk_name": "People who undergo multiple surgeries or medical procedures"
+         },
+         {
+            "risk_id": 257,
+            "risk_name": "Health care workers"
+         },
+         {
+            "risk_id": 258,
+            "risk_name": "Rubber industry workers"
+         },
+         {
+            "risk_id": 259,
+            "risk_name": "People with a personal or family history of allergies"
          }
       ]
    },
    {
       "disease_id": 138,
-      "disease_name": "Hay fever",
+      "disease_name": "Food allergy",
       "causes": [],
-      "risk_factors": []
+      "risk_factors": [
+         {
+            "risk_id": 4,
+            "risk_name": "Family history"
+         },
+         {
+            "risk_id": 244,
+            "risk_name": "Other allergies"
+         },
+         {
+            "risk_id": 128,
+            "risk_name": "Asthma"
+         }
+      ]
    },
    {
       "disease_id": 139,
-      "disease_name": "Allergies",
+      "disease_name": "Egg allergy",
       "causes": [
          {
-            "cause_id": 251,
-            "cause_name": "Airborne allergens"
-         },
-         {
-            "cause_id": 252,
-            "cause_name": "Certain foods"
-         },
-         {
-            "cause_id": 253,
-            "cause_name": "Insect stings"
-         },
-         {
-            "cause_id": 16,
-            "cause_name": "Medications"
-         },
-         {
             "cause_id": 254,
-            "cause_name": "Latex or other substances you touch"
+            "cause_name": "Atopic dermatitis"
+         },
+         {
+            "cause_id": 49,
+            "cause_name": "Family history"
+         },
+         {
+            "cause_id": 8,
+            "cause_name": "Age"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 254,
-            "risk_name": "Have a family history of asthma or allergies"
+            "risk_id": 247,
+            "risk_name": "Atopic dermatitis"
          },
          {
-            "risk_id": 255,
-            "risk_name": "Are a chil"
+            "risk_id": 4,
+            "risk_name": "Family history"
          },
          {
-            "risk_id": 256,
-            "risk_name": "Have asthm"
+            "risk_id": 0,
+            "risk_name": "Age"
          }
       ]
    },
    {
       "disease_id": 140,
-      "disease_name": "Churg-Strauss syndrome",
+      "disease_name": "Dust mite allergy",
       "causes": [
          {
-            "cause_id": 1,
-            "cause_name": "Age"
+            "cause_id": 255,
+            "cause_name": "\nHaving a family history of allergies"
          },
          {
-            "cause_id": 255,
-            "cause_name": "History of asthma or nasal problems"
+            "cause_id": 256,
+            "cause_name": "\nExposure to dust mites"
+         },
+         {
+            "cause_id": 257,
+            "cause_name": "\nBeing a child or a young adult"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 1,
-            "risk_name": "Age"
+            "risk_id": 260,
+            "risk_name": "\nHaving a family history of allergies"
          },
          {
-            "risk_id": 257,
-            "risk_name": "History of asthma or nasal problems"
+            "risk_id": 261,
+            "risk_name": "\nExposure to dust mites"
+         },
+         {
+            "risk_id": 262,
+            "risk_name": "\nBeing a child or a young adult"
          }
       ]
    },
    {
       "disease_id": 141,
-      "disease_name": "Primary aldosteronism",
+      "disease_name": "Hay fever",
       "causes": [],
       "risk_factors": []
    },
    {
       "disease_id": 142,
+      "disease_name": "Allergies",
+      "causes": [
+         {
+            "cause_id": 258,
+            "cause_name": "Airborne allergens"
+         },
+         {
+            "cause_id": 259,
+            "cause_name": "Certain foods"
+         },
+         {
+            "cause_id": 260,
+            "cause_name": "Insect stings"
+         },
+         {
+            "cause_id": 23,
+            "cause_name": "Medications"
+         },
+         {
+            "cause_id": 261,
+            "cause_name": "Latex or other substances you touch"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 263,
+            "risk_name": "Have a family history of asthma or allergies"
+         },
+         {
+            "risk_id": 264,
+            "risk_name": "Are a chil"
+         },
+         {
+            "risk_id": 265,
+            "risk_name": "Have asthm"
+         }
+      ]
+   },
+   {
+      "disease_id": 143,
+      "disease_name": "Churg-Strauss syndrome",
+      "causes": [
+         {
+            "cause_id": 8,
+            "cause_name": "Age"
+         },
+         {
+            "cause_id": 262,
+            "cause_name": "History of asthma or nasal problems"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 0,
+            "risk_name": "Age"
+         },
+         {
+            "risk_id": 266,
+            "risk_name": "History of asthma or nasal problems"
+         }
+      ]
+   },
+   {
+      "disease_id": 144,
+      "disease_name": "Primary aldosteronism",
+      "causes": [],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 145,
       "disease_name": "Fetal alcohol syndrome",
       "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 143,
+      "disease_id": 146,
+      "disease_name": "Alcoholic hepatitis",
+      "causes": [],
+      "risk_factors": [
+         {
+            "risk_id": 25,
+            "risk_name": "Your sex"
+         },
+         {
+            "risk_id": 24,
+            "risk_name": "Obesity"
+         },
+         {
+            "risk_id": 267,
+            "risk_name": "Genetic factors"
+         },
+         {
+            "risk_id": 268,
+            "risk_name": "Race and ethnicity"
+         },
+         {
+            "risk_id": 269,
+            "risk_name": "Binge drinking"
+         }
+      ]
+   },
+   {
+      "disease_id": 147,
       "disease_name": "Alcohol poisoning",
       "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 144,
+      "disease_id": 148,
+      "disease_name": "Alcohol intolerance",
+      "causes": [],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 149,
+      "disease_name": "Airplane ear",
+      "causes": [],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 150,
+      "disease_name": "Agoraphobia",
+      "causes": [],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 151,
+      "disease_name": "Myelofibrosis",
+      "causes": [
+         {
+            "cause_id": 8,
+            "cause_name": "Age"
+         },
+         {
+            "cause_id": 263,
+            "cause_name": "Another blood cell disorder"
+         },
+         {
+            "cause_id": 264,
+            "cause_name": "Exposure to certain chemicals"
+         },
+         {
+            "cause_id": 265,
+            "cause_name": "Exposure to radiation"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 0,
+            "risk_name": "Age"
+         },
+         {
+            "risk_id": 270,
+            "risk_name": "Another blood cell disorder"
+         },
+         {
+            "risk_id": 271,
+            "risk_name": "Exposure to certain chemicals"
+         },
+         {
+            "risk_id": 272,
+            "risk_name": "Exposure to radiation"
+         }
+      ]
+   },
+   {
+      "disease_id": 152,
+      "disease_name": "Dry macular degeneration",
+      "causes": [
+         {
+            "cause_id": 8,
+            "cause_name": "Age"
+         },
+         {
+            "cause_id": 266,
+            "cause_name": "Family history and genetics"
+         },
+         {
+            "cause_id": 267,
+            "cause_name": "Race"
+         },
+         {
+            "cause_id": 268,
+            "cause_name": "Smokin"
+         },
+         {
+            "cause_id": 269,
+            "cause_name": ""
+         },
+         {
+            "cause_id": 52,
+            "cause_name": "Obesity"
+         },
+         {
+            "cause_id": 270,
+            "cause_name": "Cardiovascular disease"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 0,
+            "risk_name": "Age"
+         },
+         {
+            "risk_id": 273,
+            "risk_name": "Family history and genetics"
+         },
+         {
+            "risk_id": 30,
+            "risk_name": "Race"
+         },
+         {
+            "risk_id": 274,
+            "risk_name": "Smokin"
+         },
+         {
+            "risk_id": 275,
+            "risk_name": ""
+         },
+         {
+            "risk_id": 24,
+            "risk_name": "Obesity"
+         },
+         {
+            "risk_id": 276,
+            "risk_name": "Cardiovascular disease"
+         }
+      ]
+   },
+   {
+      "disease_id": 153,
+      "disease_name": "Age spots (liver spots)",
+      "causes": [],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 154,
       "disease_name": "Albinism",
       "causes": [
          {
-            "cause_id": 256,
+            "cause_id": 271,
             "cause_name": "Oculocutaneous albinism (OCA)"
          },
          {
-            "cause_id": 257,
+            "cause_id": 272,
             "cause_name": "Ocular albinis"
          },
          {
-            "cause_id": 258,
+            "cause_id": 273,
             "cause_name": "Albinism related to rare hereditary syndrome"
          }
       ],
       "risk_factors": []
    },
    {
-      "disease_id": 145,
-      "disease_name": "Alcohol intolerance",
-      "causes": [],
-      "risk_factors": []
-   },
-   {
-      "disease_id": 146,
-      "disease_name": "Airplane ear",
-      "causes": [],
-      "risk_factors": []
-   },
-   {
-      "disease_id": 147,
-      "disease_name": "Agoraphobia",
-      "causes": [],
-      "risk_factors": []
-   },
-   {
-      "disease_id": 148,
-      "disease_name": "Myelofibrosis",
-      "causes": [
-         {
-            "cause_id": 1,
-            "cause_name": "Age"
-         },
-         {
-            "cause_id": 259,
-            "cause_name": "Another blood cell disorder"
-         },
-         {
-            "cause_id": 260,
-            "cause_name": "Exposure to certain chemicals"
-         },
-         {
-            "cause_id": 261,
-            "cause_name": "Exposure to radiation"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 1,
-            "risk_name": "Age"
-         },
-         {
-            "risk_id": 258,
-            "risk_name": "Another blood cell disorder"
-         },
-         {
-            "risk_id": 259,
-            "risk_name": "Exposure to certain chemicals"
-         },
-         {
-            "risk_id": 260,
-            "risk_name": "Exposure to radiation"
-         }
-      ]
-   },
-   {
-      "disease_id": 149,
+      "disease_id": 155,
       "disease_name": "Wet macular degeneration",
       "causes": [
          {
-            "cause_id": 262,
+            "cause_id": 274,
             "cause_name": "Vision loss caused by abnormal blood vessel growth"
          },
          {
-            "cause_id": 263,
+            "cause_id": 275,
             "cause_name": "Vision loss caused by fluid buildup in the back of the eye"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 1,
+            "risk_id": 0,
             "risk_name": "Age"
          },
          {
-            "risk_id": 20,
+            "risk_id": 4,
             "risk_name": "Family history"
          },
          {
-            "risk_id": 40,
+            "risk_id": 44,
             "risk_name": "Smoking"
          },
          {
-            "risk_id": 9,
+            "risk_id": 24,
             "risk_name": "Obesity"
          },
          {
-            "risk_id": 261,
+            "risk_id": 276,
             "risk_name": "Cardiovascular disease"
-         }
-      ]
-   },
-   {
-      "disease_id": 150,
-      "disease_name": "Dry macular degeneration",
-      "causes": [
-         {
-            "cause_id": 1,
-            "cause_name": "Age"
-         },
-         {
-            "cause_id": 264,
-            "cause_name": "Family history and genetics"
-         },
-         {
-            "cause_id": 265,
-            "cause_name": "Race"
-         },
-         {
-            "cause_id": 266,
-            "cause_name": "Smokin"
-         },
-         {
-            "cause_id": 267,
-            "cause_name": ""
-         },
-         {
-            "cause_id": 80,
-            "cause_name": "Obesity"
-         },
-         {
-            "cause_id": 268,
-            "cause_name": "Cardiovascular disease"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 1,
-            "risk_name": "Age"
-         },
-         {
-            "risk_id": 262,
-            "risk_name": "Family history and genetics"
-         },
-         {
-            "risk_id": 19,
-            "risk_name": "Race"
-         },
-         {
-            "risk_id": 263,
-            "risk_name": "Smokin"
-         },
-         {
-            "risk_id": 264,
-            "risk_name": ""
-         },
-         {
-            "risk_id": 9,
-            "risk_name": "Obesity"
-         },
-         {
-            "risk_id": 261,
-            "risk_name": "Cardiovascular disease"
-         }
-      ]
-   },
-   {
-      "disease_id": 151,
-      "disease_name": "Age spots (liver spots)",
-      "causes": [],
-      "risk_factors": []
-   },
-   {
-      "disease_id": 152,
-      "disease_name": "Adult Still's disease",
-      "causes": [
-         {
-            "cause_id": 269,
-            "cause_name": "Joint destruction"
-         },
-         {
-            "cause_id": 270,
-            "cause_name": "Inflammation of your heart"
-         },
-         {
-            "cause_id": 271,
-            "cause_name": "Excess fluid around your lungs"
-         },
-         {
-            "cause_id": 272,
-            "cause_name": "Macrophage activation syndrome"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 265,
-            "risk_name": "Joint destruction"
-         },
-         {
-            "risk_id": 266,
-            "risk_name": "Inflammation of your heart"
-         },
-         {
-            "risk_id": 267,
-            "risk_name": "Excess fluid around your lungs"
-         },
-         {
-            "risk_id": 268,
-            "risk_name": "Macrophage activation syndrome"
-         }
-      ]
-   },
-   {
-      "disease_id": 153,
-      "disease_name": "Adrenoleukodystrophy",
-      "causes": [],
-      "risk_factors": []
-   },
-   {
-      "disease_id": 154,
-      "disease_name": "Benign adrenal tumors",
-      "causes": [],
-      "risk_factors": []
-   },
-   {
-      "disease_id": 155,
-      "disease_name": "Pheochromocytoma",
-      "causes": [
-         {
-            "cause_id": 273,
-            "cause_name": "Multiple endocrine neoplasia, type II (MEN II"
-         },
-         {
-            "cause_id": 274,
-            "cause_name": "Von Hippel-Lindau diseas"
-         },
-         {
-            "cause_id": 275,
-            "cause_name": "Neurofibromatosis 1 (NF1"
-         },
-         {
-            "cause_id": 276,
-            "cause_name": "Hereditary paraganglioma syndrome"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 269,
-            "risk_name": "Multiple endocrine neoplasia, type II (MEN II"
-         },
-         {
-            "risk_id": 270,
-            "risk_name": "Von Hippel-Lindau diseas"
-         },
-         {
-            "risk_id": 271,
-            "risk_name": "Neurofibromatosis 1 (NF1"
-         },
-         {
-            "risk_id": 272,
-            "risk_name": "Hereditary paraganglioma syndrome"
          }
       ]
    },
    {
       "disease_id": 156,
-      "disease_name": "Childhood schizophrenia",
-      "causes": [],
-      "risk_factors": []
+      "disease_name": "Adult Still's disease",
+      "causes": [
+         {
+            "cause_id": 276,
+            "cause_name": "Joint destruction"
+         },
+         {
+            "cause_id": 277,
+            "cause_name": "Inflammation of your heart"
+         },
+         {
+            "cause_id": 278,
+            "cause_name": "Excess fluid around your lungs"
+         },
+         {
+            "cause_id": 279,
+            "cause_name": "Macrophage activation syndrome"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 277,
+            "risk_name": "Joint destruction"
+         },
+         {
+            "risk_id": 278,
+            "risk_name": "Inflammation of your heart"
+         },
+         {
+            "risk_id": 279,
+            "risk_name": "Excess fluid around your lungs"
+         },
+         {
+            "risk_id": 280,
+            "risk_name": "Macrophage activation syndrome"
+         }
+      ]
    },
    {
       "disease_id": 157,
-      "disease_name": "Adnexal tumors",
+      "disease_name": "Adrenoleukodystrophy",
       "causes": [],
       "risk_factors": []
    },
    {
       "disease_id": 158,
-      "disease_name": "Adjustment disorders",
+      "disease_name": "Benign adrenal tumors",
       "causes": [],
       "risk_factors": []
    },
    {
       "disease_id": 159,
-      "disease_name": "Frozen shoulder",
-      "causes": [],
-      "risk_factors": []
+      "disease_name": "Pheochromocytoma",
+      "causes": [
+         {
+            "cause_id": 280,
+            "cause_name": "Multiple endocrine neoplasia, type II (MEN II"
+         },
+         {
+            "cause_id": 281,
+            "cause_name": "Von Hippel-Lindau diseas"
+         },
+         {
+            "cause_id": 282,
+            "cause_name": "Neurofibromatosis 1 (NF1"
+         },
+         {
+            "cause_id": 283,
+            "cause_name": "Hereditary paraganglioma syndrome"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 281,
+            "risk_name": "Multiple endocrine neoplasia, type II (MEN II"
+         },
+         {
+            "risk_id": 282,
+            "risk_name": "Von Hippel-Lindau diseas"
+         },
+         {
+            "risk_id": 283,
+            "risk_name": "Neurofibromatosis 1 (NF1"
+         },
+         {
+            "risk_id": 284,
+            "risk_name": "Hereditary paraganglioma syndrome"
+         }
+      ]
    },
    {
       "disease_id": 160,
-      "disease_name": "Adult attention-deficit/hyperactivity disorder (ADHD)",
-      "causes": [
-         {
-            "cause_id": 37,
-            "cause_name": "Genetics"
-         },
-         {
-            "cause_id": 145,
-            "cause_name": "Environment"
-         },
-         {
-            "cause_id": 277,
-            "cause_name": "Problems during development"
-         }
-      ],
-      "risk_factors": []
-   },
-   {
-      "disease_id": 161,
       "disease_name": "Adrenal cancer",
       "causes": [],
       "risk_factors": []
    },
    {
+      "disease_id": 161,
+      "disease_name": "Childhood schizophrenia",
+      "causes": [],
+      "risk_factors": []
+   },
+   {
       "disease_id": 162,
+      "disease_name": "Adnexal tumors",
+      "causes": [],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 163,
+      "disease_name": "Adjustment disorders",
+      "causes": [],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 164,
+      "disease_name": "Frozen shoulder",
+      "causes": [],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 165,
       "disease_name": "Attention-deficit/hyperactivity disorder (ADHD) in children",
       "causes": [
          {
-            "cause_id": 37,
+            "cause_id": 28,
             "cause_name": "Genetics"
          },
          {
-            "cause_id": 145,
+            "cause_id": 29,
             "cause_name": "Environment"
          },
          {
-            "cause_id": 278,
+            "cause_id": 284,
             "cause_name": "Development"
          }
       ],
       "risk_factors": []
    },
    {
-      "disease_id": 163,
+      "disease_id": 166,
       "disease_name": "Adenomyosis",
       "causes": [
          {
-            "cause_id": 279,
+            "cause_id": 285,
             "cause_name": "Invasive tissue growth"
          },
          {
-            "cause_id": 280,
+            "cause_id": 286,
             "cause_name": "Developmental origins"
          },
          {
-            "cause_id": 281,
+            "cause_id": 287,
             "cause_name": "Uterine inflammation related to childbirth"
          },
          {
-            "cause_id": 282,
+            "cause_id": 288,
             "cause_name": "Stem cell origins"
          }
       ],
       "risk_factors": []
    },
    {
-      "disease_id": 164,
+      "disease_id": 167,
       "disease_name": "Mesenteric lymphadenitis",
       "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 165,
+      "disease_id": 168,
       "disease_name": "Addison's disease",
       "causes": [
          {
-            "cause_id": 283,
+            "cause_id": 289,
             "cause_name": "Glucocorticoids"
          },
          {
-            "cause_id": 284,
+            "cause_id": 290,
             "cause_name": "Mineralocorticoids"
          },
          {
-            "cause_id": 285,
+            "cause_id": 291,
             "cause_name": "Androgens"
          }
       ],
       "risk_factors": []
    },
    {
-      "disease_id": 166,
+      "disease_id": 169,
       "disease_name": "Nicotine dependence",
       "causes": [],
       "risk_factors": [
          {
-            "risk_id": 71,
+            "risk_id": 53,
             "risk_name": "Genetics"
          },
          {
-            "risk_id": 273,
+            "risk_id": 285,
             "risk_name": "Home and peer influence"
          },
          {
-            "risk_id": 1,
+            "risk_id": 0,
             "risk_name": "Age"
          },
          {
-            "risk_id": 274,
+            "risk_id": 286,
             "risk_name": "Depression or other mental illness"
          },
          {
-            "risk_id": 275,
+            "risk_id": 287,
             "risk_name": "Substance use"
          }
       ]
    },
    {
-      "disease_id": 167,
-      "disease_name": "Drug addiction (substance use disorder)",
-      "causes": [
-         {
-            "cause_id": 145,
-            "cause_name": "Environment"
-         },
-         {
-            "cause_id": 37,
-            "cause_name": "Genetics"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 276,
-            "risk_name": "Family history of addiction"
-         },
-         {
-            "risk_id": 277,
-            "risk_name": "Mental health disorder"
-         },
-         {
-            "risk_id": 278,
-            "risk_name": "Peer pressure"
-         },
-         {
-            "risk_id": 279,
-            "risk_name": "Lack of family involvement"
-         },
-         {
-            "risk_id": 280,
-            "risk_name": "Early use"
-         },
-         {
-            "risk_id": 281,
-            "risk_name": "Taking a highly addictive drug"
-         }
-      ]
-   },
-   {
-      "disease_id": 168,
+      "disease_id": 170,
       "disease_name": "Compulsive gambling",
       "causes": [
          {
-            "cause_id": 286,
+            "cause_id": 292,
             "cause_name": "Mental health disorders"
          },
          {
-            "cause_id": 1,
+            "cause_id": 8,
             "cause_name": "Age"
          },
          {
-            "cause_id": 0,
+            "cause_id": 7,
             "cause_name": "Sex"
          },
          {
-            "cause_id": 287,
+            "cause_id": 293,
             "cause_name": "Family or friend influence"
          },
          {
-            "cause_id": 288,
+            "cause_id": 294,
             "cause_name": "Medications used to treat Parkinson's disease and restless legs syndrome"
          },
          {
-            "cause_id": 289,
+            "cause_id": 295,
             "cause_name": "Certain personality characteristics"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 282,
+            "risk_id": 288,
             "risk_name": "Mental health disorders"
          },
          {
-            "risk_id": 1,
+            "risk_id": 0,
             "risk_name": "Age"
          },
          {
-            "risk_id": 0,
+            "risk_id": 8,
             "risk_name": "Sex"
          },
          {
-            "risk_id": 283,
+            "risk_id": 289,
             "risk_name": "Family or friend influence"
          },
          {
-            "risk_id": 284,
+            "risk_id": 290,
             "risk_name": "Medications used to treat Parkinson's disease and restless legs syndrome"
          },
          {
-            "risk_id": 285,
+            "risk_id": 291,
             "risk_name": "Certain personality characteristics"
          }
       ]
    },
    {
-      "disease_id": 169,
-      "disease_name": "Acute sinusitis",
-      "causes": [
-         {
-            "cause_id": 290,
-            "cause_name": "Hay fever or another allergic conditio"
-         },
-         {
-            "cause_id": 291,
-            "cause_name": "A nasal passage abnormality"
-         },
-         {
-            "cause_id": 292,
-            "cause_name": "A medical conditio"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 286,
-            "risk_name": "Hay fever or another allergic conditio"
-         },
-         {
-            "risk_id": 287,
-            "risk_name": "A nasal passage abnormality"
-         },
-         {
-            "risk_id": 288,
-            "risk_name": "A medical conditio"
-         }
-      ]
-   },
-   {
-      "disease_id": 170,
-      "disease_name": "Alcohol use disorder",
-      "causes": [
-         {
-            "cause_id": 293,
-            "cause_name": "Steady drinking over time"
-         },
-         {
-            "cause_id": 1,
-            "cause_name": "Age"
-         },
-         {
-            "cause_id": 77,
-            "cause_name": "Family history"
-         },
-         {
-            "cause_id": 294,
-            "cause_name": "Depression and other mental health problems"
-         },
-         {
-            "cause_id": 295,
-            "cause_name": "Social and cultural factors"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 289,
-            "risk_name": "Steady drinking over time"
-         },
-         {
-            "risk_id": 1,
-            "risk_name": "Age"
-         },
-         {
-            "risk_id": 20,
-            "risk_name": "Family history"
-         },
-         {
-            "risk_id": 290,
-            "risk_name": "Depression and other mental health problems"
-         },
-         {
-            "risk_id": 291,
-            "risk_name": "Social and cultural factors"
-         }
-      ]
-   },
-   {
       "disease_id": 171,
-      "disease_name": "ARDS",
+      "disease_name": "Drug addiction (substance use disorder)",
       "causes": [
          {
-            "cause_id": 296,
-            "cause_name": "Sepsis"
+            "cause_id": 29,
+            "cause_name": "Environment"
          },
          {
-            "cause_id": 297,
-            "cause_name": "Inhalation of harmful substances"
-         },
-         {
-            "cause_id": 298,
-            "cause_name": "Severe pneumonia"
-         },
-         {
-            "cause_id": 299,
-            "cause_name": "Head, chest or other major injury"
-         },
-         {
-            "cause_id": 300,
-            "cause_name": "Others"
+            "cause_id": 28,
+            "cause_name": "Genetics"
          }
       ],
       "risk_factors": [
          {
             "risk_id": 292,
-            "risk_name": "Blood clots"
+            "risk_name": "Family history of addiction"
          },
          {
             "risk_id": 293,
-            "risk_name": "Collapsed lung (pneumothorax)"
+            "risk_name": "Mental health disorder"
          },
          {
             "risk_id": 294,
-            "risk_name": "Infections"
+            "risk_name": "Peer pressure"
          },
          {
             "risk_id": 295,
-            "risk_name": "Scarring (pulmonary fibrosis)"
+            "risk_name": "Lack of family involvement"
+         },
+         {
+            "risk_id": 296,
+            "risk_name": "Early use"
+         },
+         {
+            "risk_id": 297,
+            "risk_name": "Taking a highly addictive drug"
          }
       ]
    },
    {
       "disease_id": 172,
-      "disease_name": "Radiation sickness",
-      "causes": [],
-      "risk_factors": []
-   },
-   {
-      "disease_id": 173,
-      "disease_name": "Acute myelogenous leukemia",
+      "disease_name": "Alcohol use disorder",
       "causes": [
          {
+            "cause_id": 296,
+            "cause_name": "Steady drinking over time"
+         },
+         {
+            "cause_id": 297,
+            "cause_name": "Starting at an early age"
+         },
+         {
+            "cause_id": 49,
+            "cause_name": "Family history"
+         },
+         {
+            "cause_id": 298,
+            "cause_name": "Depression and other mental health problems"
+         },
+         {
+            "cause_id": 299,
+            "cause_name": "History of trauma"
+         },
+         {
+            "cause_id": 300,
+            "cause_name": "Having bariatric surgery"
+         },
+         {
             "cause_id": 301,
-            "cause_name": "Increasing age"
-         },
-         {
-            "cause_id": 12,
-            "cause_name": "Your sex"
-         },
-         {
-            "cause_id": 302,
-            "cause_name": "Previous cancer treatment"
-         },
-         {
-            "cause_id": 261,
-            "cause_name": "Exposure to radiation"
-         },
-         {
-            "cause_id": 303,
-            "cause_name": "Dangerous chemical exposure"
-         },
-         {
-            "cause_id": 78,
-            "cause_name": "Smoking"
-         },
-         {
-            "cause_id": 304,
-            "cause_name": "Other blood disorders"
-         },
-         {
-            "cause_id": 305,
-            "cause_name": "Genetic disorders"
+            "cause_name": "Social and cultural factors"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 296,
-            "risk_name": "Increasing age"
-         },
-         {
-            "risk_id": 14,
-            "risk_name": "Your sex"
-         },
-         {
-            "risk_id": 297,
-            "risk_name": "Previous cancer treatment"
-         },
-         {
-            "risk_id": 260,
-            "risk_name": "Exposure to radiation"
-         },
-         {
             "risk_id": 298,
-            "risk_name": "Dangerous chemical exposure"
-         },
-         {
-            "risk_id": 40,
-            "risk_name": "Smoking"
+            "risk_name": "Steady drinking over time"
          },
          {
             "risk_id": 299,
-            "risk_name": "Other blood disorders"
+            "risk_name": "Starting at an early age"
+         },
+         {
+            "risk_id": 4,
+            "risk_name": "Family history"
          },
          {
             "risk_id": 300,
-            "risk_name": "Genetic disorders"
+            "risk_name": "Depression and other mental health problems"
+         },
+         {
+            "risk_id": 301,
+            "risk_name": "History of trauma"
+         },
+         {
+            "risk_id": 302,
+            "risk_name": "Having bariatric surgery"
+         },
+         {
+            "risk_id": 303,
+            "risk_name": "Social and cultural factors"
+         }
+      ]
+   },
+   {
+      "disease_id": 173,
+      "disease_name": "Acute sinusitis",
+      "causes": [
+         {
+            "cause_id": 302,
+            "cause_name": "Hay fever or another allergic conditio"
+         },
+         {
+            "cause_id": 303,
+            "cause_name": "A nasal passage abnormality"
+         },
+         {
+            "cause_id": 304,
+            "cause_name": "A medical conditio"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 304,
+            "risk_name": "Hay fever or another allergic conditio"
+         },
+         {
+            "risk_id": 305,
+            "risk_name": "A nasal passage abnormality"
+         },
+         {
+            "risk_id": 306,
+            "risk_name": "A medical conditio"
          }
       ]
    },
    {
       "disease_id": 174,
-      "disease_name": "Acute lymphocytic leukemia",
+      "disease_name": "ARDS",
       "causes": [
          {
-            "cause_id": 302,
-            "cause_name": "Previous cancer treatment"
-         },
-         {
-            "cause_id": 261,
-            "cause_name": "Exposure to radiation"
-         },
-         {
             "cause_id": 305,
-            "cause_name": "Genetic disorders"
+            "cause_name": "Sepsis"
          },
          {
             "cause_id": 306,
-            "cause_name": "Having a brother or sister with ALL"
+            "cause_name": "Inhalation of harmful substances"
+         },
+         {
+            "cause_id": 307,
+            "cause_name": "Severe pneumonia"
+         },
+         {
+            "cause_id": 308,
+            "cause_name": "Head, chest or other major injury"
+         },
+         {
+            "cause_id": 309,
+            "cause_name": "Others"
          }
       ],
       "risk_factors": [
          {
-            "risk_id": 297,
-            "risk_name": "Previous cancer treatment"
+            "risk_id": 307,
+            "risk_name": "Blood clots"
          },
          {
-            "risk_id": 260,
-            "risk_name": "Exposure to radiation"
+            "risk_id": 308,
+            "risk_name": "Collapsed lung (pneumothorax)"
          },
          {
-            "risk_id": 300,
-            "risk_name": "Genetic disorders"
+            "risk_id": 309,
+            "risk_name": "Infections"
          },
          {
-            "risk_id": 301,
-            "risk_name": "Having a brother or sister with ALL"
+            "risk_id": 310,
+            "risk_name": "Scarring (pulmonary fibrosis)"
          }
       ]
    },
    {
       "disease_id": 175,
-      "disease_name": "Acute liver failure",
+      "disease_name": "Radiation sickness",
+      "causes": [],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 176,
+      "disease_name": "Acute myelogenous leukemia",
       "causes": [
          {
-            "cause_id": 307,
-            "cause_name": "Prescription medications"
-         },
-         {
-            "cause_id": 308,
-            "cause_name": "Herbal supplements"
-         },
-         {
-            "cause_id": 309,
-            "cause_name": "Hepatitis and other viruses"
-         },
-         {
             "cause_id": 310,
-            "cause_name": "Toxins"
+            "cause_name": "Increasing age"
+         },
+         {
+            "cause_id": 19,
+            "cause_name": "Your sex"
          },
          {
             "cause_id": 311,
-            "cause_name": "Autoimmune disease"
+            "cause_name": "Previous cancer treatment"
+         },
+         {
+            "cause_id": 265,
+            "cause_name": "Exposure to radiation"
          },
          {
             "cause_id": 312,
-            "cause_name": "Diseases of the veins in the liver"
+            "cause_name": "Dangerous chemical exposure"
+         },
+         {
+            "cause_id": 50,
+            "cause_name": "Smoking"
          },
          {
             "cause_id": 313,
-            "cause_name": "Metabolic disease"
-         },
-         {
-            "cause_id": 2,
-            "cause_name": "Cancer"
+            "cause_name": "Other blood disorders"
          },
          {
             "cause_id": 314,
+            "cause_name": "Genetic disorders"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 311,
+            "risk_name": "Increasing age"
+         },
+         {
+            "risk_id": 25,
+            "risk_name": "Your sex"
+         },
+         {
+            "risk_id": 312,
+            "risk_name": "Previous cancer treatment"
+         },
+         {
+            "risk_id": 272,
+            "risk_name": "Exposure to radiation"
+         },
+         {
+            "risk_id": 313,
+            "risk_name": "Dangerous chemical exposure"
+         },
+         {
+            "risk_id": 44,
+            "risk_name": "Smoking"
+         },
+         {
+            "risk_id": 314,
+            "risk_name": "Other blood disorders"
+         },
+         {
+            "risk_id": 315,
+            "risk_name": "Genetic disorders"
+         }
+      ]
+   },
+   {
+      "disease_id": 177,
+      "disease_name": "Acute lymphocytic leukemia",
+      "causes": [
+         {
+            "cause_id": 311,
+            "cause_name": "Previous cancer treatment"
+         },
+         {
+            "cause_id": 265,
+            "cause_name": "Exposure to radiation"
+         },
+         {
+            "cause_id": 314,
+            "cause_name": "Genetic disorders"
+         },
+         {
+            "cause_id": 315,
+            "cause_name": "Having a brother or sister with ALL"
+         }
+      ],
+      "risk_factors": [
+         {
+            "risk_id": 312,
+            "risk_name": "Previous cancer treatment"
+         },
+         {
+            "risk_id": 272,
+            "risk_name": "Exposure to radiation"
+         },
+         {
+            "risk_id": 315,
+            "risk_name": "Genetic disorders"
+         },
+         {
+            "risk_id": 316,
+            "risk_name": "Having a brother or sister with ALL"
+         }
+      ]
+   },
+   {
+      "disease_id": 178,
+      "disease_name": "Acute liver failure",
+      "causes": [
+         {
+            "cause_id": 316,
+            "cause_name": "Prescription medications"
+         },
+         {
+            "cause_id": 317,
+            "cause_name": "Herbal supplements"
+         },
+         {
+            "cause_id": 318,
+            "cause_name": "Hepatitis and other viruses"
+         },
+         {
+            "cause_id": 319,
+            "cause_name": "Toxins"
+         },
+         {
+            "cause_id": 320,
+            "cause_name": "Autoimmune disease"
+         },
+         {
+            "cause_id": 321,
+            "cause_name": "Diseases of the veins in the liver"
+         },
+         {
+            "cause_id": 322,
+            "cause_name": "Metabolic disease"
+         },
+         {
+            "cause_id": 9,
+            "cause_name": "Cancer"
+         },
+         {
+            "cause_id": 323,
             "cause_name": "Shock"
          }
       ],
       "risk_factors": []
    },
    {
-      "disease_id": 176,
-      "disease_name": "Guillain-Barre syndrome",
-      "causes": [],
-      "risk_factors": []
-   },
-   {
-      "disease_id": 177,
+      "disease_id": 179,
       "disease_name": "Acute kidney failure",
       "causes": [],
       "risk_factors": []
    },
    {
-      "disease_id": 178,
-      "disease_name": "Abdominal aortic aneurysm",
-      "causes": [
-         {
-            "cause_id": 315,
-            "cause_name": "Tobacco use"
-         },
-         {
-            "cause_id": 173,
-            "cause_name": "Hardening of the arteries (atherosclerosis)"
-         },
-         {
-            "cause_id": 316,
-            "cause_name": "High blood pressure"
-         },
-         {
-            "cause_id": 317,
-            "cause_name": "Blood vessel diseases in the aorta"
-         },
-         {
-            "cause_id": 318,
-            "cause_name": "Infection in the aorta"
-         },
-         {
-            "cause_id": 140,
-            "cause_name": "Trauma"
-         },
-         {
-            "cause_id": 319,
-            "cause_name": "Heredity"
-         }
-      ],
-      "risk_factors": [
-         {
-            "risk_id": 1,
-            "risk_name": "Age"
-         },
-         {
-            "risk_id": 173,
-            "risk_name": "Tobacco use"
-         },
-         {
-            "risk_id": 126,
-            "risk_name": "Being male"
-         },
-         {
-            "risk_id": 302,
-            "risk_name": "Being white"
-         },
-         {
-            "risk_id": 20,
-            "risk_name": "Family history"
-         },
-         {
-            "risk_id": 303,
-            "risk_name": "Atherosclerosis"
-         },
-         {
-            "risk_id": 304,
-            "risk_name": "Other aneurysms"
-         },
-         {
-            "risk_id": 44,
-            "risk_name": "High blood pressure"
-         }
-      ]
+      "disease_id": 180,
+      "disease_name": "Guillain-Barre syndrome",
+      "causes": [],
+      "risk_factors": []
+   },
+   {
+      "disease_id": 181,
+      "disease_name": "Bartholin's cyst",
+      "causes": [],
+      "risk_factors": []
    }
 ]
