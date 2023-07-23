@@ -2,6 +2,10 @@
   mayoclinic-scrapper
 </h1>
 
+<h2 align="center">
+  Does not work anymore. It also infringes Mayo's Clinic TOS
+</h1>
+
 <h4 align="center">Scrapping diseases information from <a href="https://www.mayoclinic.org/diseases-conditions/">Mayo Clinic</a> and saving it in <a href="https://neo4j.com/">Neo4j</a>
 
 <p align="center">
